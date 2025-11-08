@@ -1,0 +1,194 @@
+irons_spellbooks:arcane_essence:
+  description: "Một nguyên liệu ma thuật phổ biến được sử dụng trong nhiều công thức. Có thể được tìm thấy rải rác trong các cấu trúc vanilla, nhưng phổ biến hơn nhiều trong các cấu trúc ma thuật hoặc từ việc tiêu diệt mob ma thuật."
+
+irons_spellbooks:arcane_ingot:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:arcane_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:arcane_salvage:
+  description: "Một vật liệu cuối game được sử dụng cho các quả cầu nâng cấp, được nấu chảy từ <a href=\"../blocks/#irons_spellbooks:arcane_debris\">Mảnh Vụn Cổ Xưa</a>"
+
+irons_spellbooks:blank_rune:
+  description: "Cơ sở để chế tạo tất cả các loại rune khác. Có thể hiếm khi tìm thấy trong một số cấu trúc vanilla, hoặc phổ biến hơn trong các cấu trúc ma thuật. Mỗi pháp sư trường phái đánh rơi một viên cho trường phái của họ khi chết."
+
+irons_spellbooks:blood_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:blood_upgrade_orb:
+  description: ""
+
+irons_spellbooks:blood_vial:
+  description: "Tập trung huyết. Đặt một ngọn lửa trại đang cháy bên dưới một cái vạc và đặt một mob vào trong vạc để nấu mob. Điều này sẽ lấp đầy vạc bằng máu, có thể được rút ra bằng chai thủy tinh để lấy lọ máu."
+
+irons_spellbooks:cinder_essence:
+  description: "Rơi ra từ các Hiệp sĩ Cổ đại. Được sử dụng cho các quả cầu nâng cấp"
+
+irons_spellbooks:common_ink:
+  description: "Thường được tìm thấy trong các cấu trúc ma thuật hoặc từ việc tiêu diệt các mob ma thuật mạnh mẽ"
+
+irons_spellbooks:conjurers_talisman:
+  description: ""
+
+irons_spellbooks:raw_mithril:
+  description: "Có thể được nung thành <a href=\"../items/#irons_spellbooks:mithril_scrap\">Mảnh Mithril</a>"
+
+irons_spellbooks:cooldown_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:bloody_vellum:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:mithril_weave:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:pyrium_ingot:
+  description: "Nguyên liệu chế tạo. Có thể được tìm thấy trong các hầm của Citadel"
+
+irons_spellbooks:timeless_slurry:
+  description: "Nguyên liệu chế tạo. Được làm trong Vạc của Nhà giả kim"
+
+irons_spellbooks:cinderous_soulcaller:
+  description: "Được sử dụng để đánh thức một tiếng vang trong Citadel..."
+
+irons_spellbooks:divine_soulshard:
+  description: "Rơi ra từ Boss, Nguyên liệu chế tạo"
+
+irons_spellbooks:decrepit_key:
+  description: "Rơi ra từ Boss"
+
+irons_spellbooks:music_disc_dead_king_lullaby:
+  description: "Caner Crebes - Lời ru của Vua đã chết<br><br>Có thể được tìm thấy trong các chậu Catacombs"
+
+irons_spellbooks:music_disc_flame_still_burns: 
+  description: "Caner Crebes - Ngọn lửa vẫn cháy"
+
+irons_spellbooks:cooldown_upgrade_orb:
+  description: ""
+
+irons_spellbooks:divine_pearl:
+  description: "Tập trung thánh"
+
+irons_spellbooks:dragonskin:
+  description: "Rơi ra từ Rồng Ender"
+
+irons_spellbooks:ender_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:ender_upgrade_orb:
+  description: ""
+
+irons_spellbooks:epic_ink:
+  description: "Hiếm khi được tìm thấy trong các cấu trúc ma thuật hoặc từ việc tiêu diệt các mob ma thuật mạnh mẽ"
+
+irons_spellbooks:evocation_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:evocation_upgrade_orb:
+  description: ""
+
+irons_spellbooks:fire_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:fire_upgrade_orb:
+  description: ""
+
+irons_spellbooks:frozen_bone:
+  description: "Tập trung băng. Rơi ra từ những kẻ đi lạc"
+
+irons_spellbooks:hogskin:
+  description: "Rơi ra từ hoglins"
+
+irons_spellbooks:holy_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:holy_upgrade_orb:
+  description: ""
+
+irons_spellbooks:ice_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:ice_upgrade_orb:
+  description: ""
+
+irons_spellbooks:legendary_ink:
+  description: "Rất hiếm khi được tìm thấy trong các cấu trúc ma thuật hoặc từ việc tiêu diệt các mob ma thuật mạnh mẽ"
+
+irons_spellbooks:lightning_bottle:
+  description: "Tập trung sét. Sử dụng một chai rỗng trên một creeper tích điện để có được. Bạn có thể sử dụng phép <a href=\"../spells/#Lightning%20Bolt\">Tia sét</a>, cột thu lôi hoặc đinh ba để sạc một creeper."
+
+irons_spellbooks:lightning_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:lightning_upgrade_orb:
+  description: ""
+
+irons_spellbooks:lightning_rod:
+  description: "Thu được bằng cách sử dụng Lõi năng lượng trên Cột thu lôi"
+
+irons_spellbooks:energized_core:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:magic_cloth:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:mana_upgrade_orb:
+  description: ""
+
+irons_spellbooks:mithril_ingot:
+    description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:mithril_scrap:
+    description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:weapon_parts:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:poison_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:poison_upgrade_orb:
+  description: ""
+
+irons_spellbooks:protection_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:nature_rune:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:protection_upgrade_orb:
+  description: ""
+
+irons_spellbooks:rare_ink:
+  description: "Hiếm khi được tìm thấy trong các cấu trúc ma thuật hoặc từ việc tiêu diệt các mob ma thuật mạnh mẽ"
+
+irons_spellbooks:ruined_book:
+  description: "Nguyên liệu chế tạo. Có thể được tìm thấy trong các Thành phố Cổ."
+
+irons_spellbooks:shriving_stone:
+  description: ""
+
+irons_spellbooks:tarnished_helmet:
+  description: "Rơi hiếm từ necromancer"
+
+irons_spellbooks:uncommon_ink:
+  description: "Được tìm thấy trong các cấu trúc ma thuật hoặc từ việc tiêu diệt các mob ma thuật mạnh mẽ"
+
+irons_spellbooks:upgrade_orb:
+  description: "Cơ sở để chế tạo tất cả các quả cầu nâng cấp khác"
+
+irons_spellbooks:wayward_compass:
+  description: "Sau khi được chế tạo, nó sẽ tìm thấy <a href=\"../structures/#the-catacombs\">Hầm mộ</a> gần nhất và dẫn bạn đến đó"
+
+irons_spellbooks:ancient_knowledge_fragment:
+  description: "Có thể hiếm khi được tìm thấy trong chiến lợi phẩm giá sách, phổ biến hơn ở các Thành phố Cổ, hoặc được giao dịch bởi các Thương nhân lang thang"
+
+irons_spellbooks:furled_map:
+  description: "Tạo ra một bản đồ nhà thám hiểm khi được sử dụng. Điều khiển bởi NBT."
+
+irons_spellbooks:frosted_helve:
+  description: "Nguyên liệu chế tạo"
+
+irons_spellbooks:permafrost_shard:
+  description: "Nguyên liệu chế tạo. Được tìm thấy trong các xác tàu Impaled Icebreaker."

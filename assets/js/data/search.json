@@ -1,0 +1,71 @@
+---
+layout: compress
+swcache: true
+---
+
+[
+{% for post in site.data.curio_data %}
+  {
+  "title": {{ post.name | jsonify }},
+  "url": {{ './curios/?s=' | append: post.id | append: '#' | append: post.id | relative_url | jsonify }},
+  "imgUrl": {{ post.path | relative_url | jsonify }},
+  "content": {{ post.tooltip |  append: ' ' | jsonify }}
+  },
+{% endfor %}
+
+{% for post in site.data.block_data %}
+  {% assign desc = site.data.block_descriptions[post.id].description %}
+  {
+  "title": {{ post.name | jsonify }},
+  "url": {{ './blocks/?s=' | append: post.id | append: '#' | append: post.id | relative_url | jsonify }},
+  "imgUrl": {{ post.path | relative_url | jsonify }},
+  "content": {{ desc |  append: ' ' | jsonify }}
+  },
+{% endfor %}
+
+{% for post in site.data.item_data %}
+  {% assign desc = site.data.item_descriptions[post.id].description %}
+  {
+  "title": {{ post.name | jsonify }},
+  "url": {{ './items/?s=' | append: post.id | append: '#' | append: post.id | relative_url | jsonify }},
+  "imgUrl": {{ post.path | relative_url | jsonify }},
+  "content": {{ desc |  append: ' ' | jsonify }}
+  },
+{% endfor %}
+
+{% for post in site.data.spellbook_data %}
+  {% assign desc = site.data.spellbook_descriptions[post.id].description %}
+  {
+  "title": {{ post.name | jsonify }},
+  "url": {{ './spellbooks/?s=' | append: post.id | append: '#' | append: post.id | relative_url | jsonify }},
+  "imgUrl": {{ post.path | relative_url | jsonify }},
+  "content": {{ post.tooltip |  append: ' ' | jsonify }}
+  },
+{% endfor %}
+
+{% for post in site.data.spell_data %}
+  {% assign spell_desc = " " %}
+  {% if site.data.spell_descriptions[post.name].description != null and site.data.spell_descriptions[post.name].description != "" %}
+    {% assign spell_desc = site.data.spell_descriptions[post.name].description %}
+  {% else %}
+    {% assign spell_desc = post.description %}
+  {% endif %}
+
+  {
+  "title": {{ post.name | jsonify }},
+  "url": {{ './spells/?s=' | append: post.name | append: '#' | append: post.name | relative_url | jsonify }},
+  "imgUrl": {{ post.icon | relative_url | jsonify }},
+  "content": {{ spell_desc | jsonify }}
+  },
+{% endfor %}
+
+{% for post in site.data.armor_data %}
+  {
+  "title": {{ post.name | jsonify }},
+  "url": {{ './armor/?s=' | append: post.id | append: '#' | append: post.id | relative_url | jsonify }},
+  "imgUrl": {{ post.path | relative_url | jsonify }},
+  "content": {{ post.tooltip | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+
+]

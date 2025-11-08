@@ -1,10 +1,9 @@
 "Counterspell":
   description: "
   <ul>
-  <li>Interrupt player and mob casting</li>
-  <li>Banishes summoned shield , blood slash , creeper head</li>
-  <li>Banishes summoned creatures</li>
-  <li>Removes root</li>
-  <li>Removes mob effects like fortify or evasion</li>
+  <li>Ngắt chiêu của người chơi và quái vật.</li>
+  <li>Xóa bỏ khiên triệu hồi, huyết trảm, và đầu creeper.</li>
+  <li>Xóa bỏ các sinh vật được triệu hồi.</li>
+  <li>Loại bỏ hiệu ứng trói chân.</li>
+  <li>Loại bỏ các hiệu ứng của quái vật như cường hóa hoặc né tránh.</li>
   </ul>"
-

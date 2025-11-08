@@ -17,23 +17,22 @@ irons_spellbooks:copper_spell_book:
   description: ""
 
 irons_spellbooks:evoker_spell_book:
-  description: "Rare random drop from Evokers or Archevokers."
+  description: "Rớt ngẫu nhiên với tỉ lệ hiếm từ Evoker và Archevoker."
 
 irons_spellbooks:rotten_spell_book:
-  description: "Rare random world loot."
+  description: "Đồ hiếm rớt ngẫu nhiên trong thế giới."
 
 irons_spellbooks:blaze_spell_book:
-  description: "Rare random drop from Blazes."
+  description: "Rớt ngẫu nhiên với tỉ lệ hiếm từ Blaze."
 
 irons_spellbooks:villager_spell_book:
-  description: "The Priest mob will trade one for a written book that can be found in the Evoker Fort. The written book must be translated by a captive wandering trader from the Evoker Fort first."
+  description: "Tu sĩ sẽ trao đổi vật phẩm này lấy một cuốn sách cổ ngữ tìm thấy trong Pháo đài Evoker. Cuốn sách cổ ngữ này phải được dịch bởi một thương nhân lang thang bị bắt giữ trong Pháo đài Evoker."
 
 irons_spellbooks:blood_staff:
-  description: "Common drop from the Dead King."
+  description: "Rớt phổ biến từ Dead King."
 
 irons_spellbooks:magehunter:
-  description: "Weapon of the Vindicator in the second floor of Archevoker Forts. Can be naturally dropped."
+  description: "Vũ khí của Vindicator trên tầng hai Pháo đài Archevoker. Có tỉ lệ rớt tự nhiên."
 
 irons_spellbooks:keeper_flamberge:
-  description: "Weapon of Ancient Knights. Can be naturally dropped."
-
+  description: "Vũ khí của Hiệp sĩ Cổ đại. Có tỉ lệ rớt tự nhiên."

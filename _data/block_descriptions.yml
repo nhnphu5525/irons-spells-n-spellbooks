@@ -1,29 +1,29 @@
 irons_spellbooks:inscription_table:
-  description: "Used to slot spells from scrolls into spell books for repeated use."
+  description: "Dùng để gắn các phép thuật từ cuộn giấy vào sách phép để sử dụng nhiều lần."
 
 irons_spellbooks:arcane_anvil:
-  description: "Used to upgrade scrolls, upgrade equipment, and imbue weapons"
+  description: "Dùng để nâng cấp cuộn phép, trang bị và cường hóa vũ khí."
 
 irons_spellbooks:scroll_forge:
-  description: "Used to craft scrolls. The ink used determines the rarity of the spells. The level will always be the lowest level of that rarity. You cannot use an ink that is less rare than the minimum rarity of the scroll."
+  description: "Dùng để chế tạo cuộn phép. Loại mực được sử dụng sẽ quyết định độ hiếm của phép thuật. Cấp độ sẽ luôn là cấp thấp nhất của độ hiếm đó. Bạn không thể sử dụng loại mực có độ hiếm thấp hơn độ hiếm tối thiểu của cuộn phép."
 
 irons_spellbooks:pedestal:
-  description: "Unused block"
+  description: "Khối không sử dụng"
 
 irons_spellbooks:armor_pile:
-  description: "Found scattered throughout Ancient Battlegrounds. Harvesting with a diamond pickaxe will cause an Ancient Knight to spawn."
+  description: "Được tìm thấy rải rác khắp Chiến Trường Cổ Xưa. Thu hoạch bằng cuốc kim cương sẽ triệu hồi một Hiệp Sĩ Cổ Xưa."
 
 irons_spellbooks:mithril_ore:
-  description: "Can be found below y = -38, unexposed to air. Requires a netherite pickaxe to harvest. Drops <a href=\"../items/#irons_spellbooks:raw_mithril\">Raw Mithril</a>"
+  description: "Có thể tìm thấy bên dưới y = -38, không tiếp xúc với không khí. Yêu cầu cuốc netherite để thu hoạch. Rớt ra <a href=\"../items/#irons_spellbooks:raw_mithril\">Mithril Thô</a>"
 
 irons_spellbooks:deepslate_mithril_ore:
-  description: "Can be found below y = -38, unexposed to air. Requires a netherite pickaxe to harvest. Drops <a href=\"../items/#irons_spellbooks:raw_mithril\">Raw Mithril</a>"
+  description: "Có thể tìm thấy bên dưới y = -38, không tiếp xúc với không khí. Yêu cầu cuốc netherite để thu hoạch. Rớt ra <a href=\"../items/#irons_spellbooks:raw_mithril\">Mithril Thô</a>"
 
 irons_spellbooks:alchemist_cauldron:
-  description: "Can be used to brew potions, craft elixirs, recycle scrolls, and upgrade ink. If a mob or player is placed in it while there is water, blood vials can also be produced. It has 4 input and 4 output slots, and must have water in it to activate. Right click to place a valid item into the input slots, and right click with a glass bottle to extract an output item."
+  description: "Có thể dùng để pha chế thuốc, chế tạo tiên dược, tái chế cuộn phép và nâng cấp mực. Nếu một mob hoặc người chơi bị đặt vào trong vạc khi có nước, lọ máu cũng có thể được tạo ra. Nó có 4 ô đầu vào và 4 ô đầu ra, và phải có nước bên trong để kích hoạt. Nhấp chuột phải để đặt một vật phẩm hợp lệ vào các ô đầu vào, và nhấp chuột phải bằng một chai thủy tinh để lấy vật phẩm đầu ra."
 
 irons_spellbooks:portal_frame:
-  description: "Creates permanent Portal connection"
+  description: "Tạo kết nối Cổng Dịch Chuyển vĩnh viễn"
 
 irons_spellbooks:ice_spider_egg:
-  description: "Requires silk touch to harvest. When found naturally, can have a layer of ice protecting it. Breaking the ice awakens a nearby Ice Spider to protect the egg."
+  description: "Yêu cầu phù phép \"Độ Mềm Mại\" để thu hoạch. Khi được tìm thấy trong tự nhiên, có thể có một lớp băng bảo vệ nó. Phá vỡ lớp băng sẽ đánh thức một Nhện Băng gần đó để bảo vệ trứng."

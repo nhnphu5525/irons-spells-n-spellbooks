@@ -5,39 +5,39 @@ order: 8
 toc: true
 ---
 
-## <u>Early Game - World Loot and The Inscription Table</u>
-The world will be full of magic loot, from resources to scrolls to equipment. In the early game, looting structures will be your primary source of scrolls. Scrolls will be much more common and powerful in magic structures.
+## <u>Giai Đoạn Đầu Game - Chiến Lợi Phẩm Thế Giới và Bàn Khắc Chữ</u>
+Thế giới sẽ tràn ngập các chiến lợi phẩm ma thuật, từ tài nguyên đến các cuộn giấy và trang bị. Ở giai đoạn đầu game, việc lục lọi các công trình sẽ là nguồn cung cấp cuộn giấy chính của bạn. Các cuộn giấy sẽ phổ biến và mạnh mẽ hơn nhiều trong các công trình ma thuật.
 
-Beginner spell books can be found or crafted. In order use spell books, you will need to bring scrolls to the [Inscription Table](../blocks/#irons_spellbooks:inscription_table).
+Sách phép cho người mới bắt đầu có thể được tìm thấy hoặc chế tạo. Để sử dụng sách phép, bạn sẽ cần mang các cuộn giấy đến [Bàn Khắc Chữ](../blocks/#irons_spellbooks:inscription_table).
 
-However, these early spell books will have limited slots and will be lacking attributes. Better spell books should be crafted or found by getting into mid game.
+Tuy nhiên, những cuốn sách phép ban đầu này sẽ có số lượng ô giới hạn và thiếu các thuộc tính. Những cuốn sách phép tốt hơn nên được chế tạo hoặc tìm thấy khi bước vào giai đoạn giữa game.
 
-An early game source of additional mana is the [Wandering Magician](../armor/#Wandering%20Magician) armor set.
+Một nguồn năng lượng bổ sung ban đầu là bộ giáp [Pháp Sư Lang Thang](../armor/#Wandering%20Magician).
 
-## <u>Mid Game - Powering Up</u>
+## <u>Giai Đoạn Giữa Game - Gia Tăng Sức Mạnh</u>
 
-Upon reaching nether level resources, you will unlock an entirely new dynamic to gaining power: The [Scroll Forge](../blocks/#irons_spellbooks:scroll_forge)
+Khi đạt đến các tài nguyên cấp Nether, bạn sẽ mở khóa một cơ chế hoàn toàn mới để tăng sức mạnh: [Lò Rèn Cuộn Giấy](../blocks/#irons_spellbooks:scroll_forge)
 
-The [Scroll Forge](../blocks/#irons_spellbooks:scroll_forge) is used to craft scrolls by using [ink](../#ink), paper, and a [focus](../#focuses). The ink determines the rarity (and therefore level), and the focus determines spell's school.
+[Lò Rèn Cuộn Giấy](../blocks/#irons_spellbooks:scroll_forge) được sử dụng để chế tạo các cuộn giấy bằng cách sử dụng [mực](../#ink), giấy và một [vật tập trung](../#focuses). Mực quyết định độ hiếm (và do đó là cấp độ), và vật tập trung quyết định trường phái của phép thuật.
 
-Intermediate spell books can be crafted using nether resources (ex: [Apprentice's Spell Book](../spellbooks/#irons_spellbooks:gold_spell_book)). 
+Sách phép trung cấp có thể được chế tạo bằng cách sử dụng tài nguyên Nether (ví dụ: [Sách Phép của Học Viên](../spellbooks/#irons_spellbooks:gold_spell_book)).
 
-You should also start to craft stronger armor using [arcane cloth](../items/#irons_spellbooks:magic_cloth). In order to get high quantities of [arcane essence](../items/#irons_spellbooks:arcane_essence), you will need to focus on raiding magical structures.
+Bạn cũng nên bắt đầu chế tạo áo giáp mạnh hơn bằng cách sử dụng [vải ma thuật](../items/#irons_spellbooks:magic_cloth). Để có được số lượng lớn [tinh chất ma thuật](../items/#irons_spellbooks:arcane_essence), bạn sẽ cần tập trung vào việc đột kích các công trình ma thuật.
 
-In order to continue progressing, keep an eye out for [runestones](../#runestones) in magical structures. [Runestones](../#runestones) are used to craft more powerful armor.
+Để tiếp tục phát triển, hãy để mắt đến [đá cổ ngữ](../#runestones) trong các công trình ma thuật. [Đá cổ ngữ](../#runestones) được sử dụng để chế tạo áo giáp mạnh hơn.
 
-## <u>Late Game - Unlimited Power</u>
-Late game is reached by obtaining netherite and vast quantities of basic resources, and is powered by the [Arcane Anvil](../blocks/#irons_spellbooks:arcane_anvil). The [Arcane Anvil](../blocks/#irons_spellbooks:arcane_anvil) is the most powerful crafting station, used to level up your scrolls, upgrade armor and spell books, and imbue weapons with spells. 
+## <u>Giai Đoạn Cuối Game - Sức Mạnh Vô Hạn</u>
+Giai đoạn cuối game đạt được bằng cách có được netherite và số lượng lớn tài nguyên cơ bản, và được cung cấp sức mạnh bởi [Đe Cổ Ngữ](../blocks/#irons_spellbooks:arcane_anvil). [Đe Cổ Ngữ](../blocks/#irons_spellbooks:arcane_anvil) là trạm chế tạo mạnh nhất, được sử dụng để tăng cấp các cuộn giấy của bạn, nâng cấp áo giáp và sách phép, và truyền phép cho vũ khí.
 
-Farming basic resources is done most effectively by killing the Dead King boss.
+Việc farm tài nguyên cơ bản được thực hiện hiệu quả nhất bằng cách tiêu diệt trùm Dead King.
 
-School armor will allow you to specialize in a particular element (ex: [Cryomancer Armor](../armor/#Cryomancer)).
+Giáp trường phái sẽ cho phép bạn chuyên về một nguyên tố cụ thể (ví dụ: [Giáp Băng Thuật Sư](../armor/#Cryomancer)).
 
-Upgrade Orbs are crafted using [Arcane debris](../blocks/#irons_spellbooks:arcane_debris) and [Cinder Essence](../items/#irons_spellbooks:cinder_essence). By default, you can only upgrade an applicable piece of equipment three times.
+Ngọc Nâng Cấp được chế tạo bằng cách sử dụng [Mảnh Vỡ Cổ Ngữ](../blocks/#irons_spellbooks:arcane_debris) và [Tinh Chất Tro Tàn](../items/#irons_spellbooks:cinder_essence). Theo mặc định, bạn chỉ có thể nâng cấp một món trang bị áp dụng được ba lần.
  
-## <u>Along the way</u>
-At every stage of your adventures, be sure to keep an eye out for rings, unique spell books, named spell books, and magic resources!
+## <u>Trên Đường Đi</u>
+Ở mọi giai đoạn của cuộc phiêu lưu, hãy chắc chắn để mắt đến nhẫn, sách phép độc đáo, sách phép có tên, và tài nguyên ma thuật!
 
-[Arcane Essence](../items/#irons_spellbooks:arcane_essence) will be the most required material, but is also the most common.
+[Tinh Chất Cổ Ngữ](../items/#irons_spellbooks:arcane_essence) sẽ là vật liệu cần thiết nhất, nhưng cũng là phổ biến nhất.
 
-[Runestones](../#runestones) are more rare, but are most often found as a reward for killing a miniboss or in magical treasure chests.
+[Đá Cổ Ngữ](../#runestones) hiếm hơn, nhưng thường được tìm thấy nhất như một phần thưởng khi tiêu diệt một tiểu trùm hoặc trong các rương báu ma thuật.

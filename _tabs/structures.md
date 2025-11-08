@@ -5,79 +5,79 @@ order: 7
 toc: true
 ---
 
-Several new randomly generated structures can be found in your new magical world. They'll contain magical loot - and magical enemies guarding it - as well as traps, and most importantly: secret treasure. *As a side note, it is not required to break any blocks to find secrets.
-## Wizard Structures
-### Mountain Tower
-- The lonely tower of ice mages, it can be found in mountainous and snowy biomes
+Một vài công trình kiến trúc ngẫu nhiên mới có thể được tìm thấy trong thế giới phép thuật của bạn. Chúng chứa đựng những chiến lợi phẩm ma thuật - và cả những kẻ thù ma thuật canh giữ chúng - cũng như cạm bẫy, và quan trọng nhất: kho báu bí mật. *Lưu ý nhỏ, bạn không cần phải phá bất kỳ khối nào để tìm bí mật.
+## Công Trình Pháp Sư
+### Tháp Núi
+- Tòa tháp cô đơn của các pháp sư băng, có thể được tìm thấy ở các quần xã sinh vật miền núi và tuyết
 
 ![Mountain Tower](/img/mountain_tower.png)
 
-### Mangrove Hut
-- Home of the Apothecarist, it can be found in swampy biomes
+### Túp Lều Ngập Mặn
+- Nhà của Dược Sư, có thể được tìm thấy ở các quần xã sinh vật đầm lầy
 
 ![Mangrove Hut](/img/mangrove_hut.png)
 
-### Pyromancer Tower
-- Refuge of fire mages, it can be found in forested and grassy biomes
-- Has an underground complex of a ruined keep
+### Tháp Hỏa Pháp Sư
+- Nơi ẩn náu của các pháp sư lửa, có thể được tìm thấy ở các quần xã sinh vật rừng và đồng cỏ
+- Có một khu phức hợp dưới lòng đất của một pháo đài đổ nát
 
 ![Pyromancer Tower](/img/pyromancer_tower.png)
 
-### Evoker Fort
-- Keep of the Archevoker, it can be found in forests, plains, deserts, and savannas
-- Randomly generated surrounding camp
+### Pháo Đài Evoker
+- Pháo đài của Tổng Trưởng Evoker, có thể được tìm thấy trong rừng, đồng bằng, sa mạc và thảo nguyên
+- Trại xung quanh được tạo ngẫu nhiên
 
 ![Evoker Fort](/img/evoker_fort.png)
 
-### Priest House
-- As a part of plains and taiga villages, a new house can now generate
-- It is the home of the Priest, a neutral holy spellcasting protector of the village
+### Nhà Tu Sĩ
+- Là một phần của các ngôi làng ở đồng bằng và taiga, một ngôi nhà mới giờ đây có thể xuất hiện
+- Đây là nhà của Tu Sĩ, một người bảo vệ làng sử dụng phép thuật thánh trung lập
 
 ![Priest Towers](/img/priest_house_joint.png)
 
-## Miscellaneous Structures
-### Ancient Battlegrounds
-- The site of a battle of which the name was long ago forgotten, it can be found resurfacing in the Nether
-- Armor Piles can be harvested to reanimate Ancient Knights
-- Debris may be denser in the areas around them
+## Các Công Trình Khác
+### Chiến Trường Cổ Đại
+- Địa điểm của một trận chiến mà cái tên đã bị lãng quên từ lâu, nó có thể được tìm thấy lại ở Nether
+- Các Đống Giáp có thể được thu hoạch để hồi sinh các Hiệp Sĩ Cổ Đại
+- Mảnh vỡ có thể dày đặc hơn ở các khu vực xung quanh chúng
 
 ![Ancient Battlegrounds](/img/ancient_battlegrounds.png)
 
-### Impaled Icebreaker
-- A fated voyage that did not end in success... for the crew. For scavengers, there may be artifacts to find.
-- These structures are very rare, but can be located via a map detailing their voyage, if one may find who sent them
+### Tàu Phá Băng Bị Xiên
+- Một chuyến đi định mệnh đã không kết thúc thành công... đối với thủy thủ đoàn. Đối với những kẻ nhặt rác, có thể có những cổ vật để tìm.
+- Những công trình này rất hiếm, nhưng có thể được định vị thông qua một bản đồ chi tiết về chuyến đi của họ, nếu ai đó có thể tìm ra người đã cử họ đi
 
 ![Impaled Icebreaker](/img/impaled_icebreaker.png)
 
-### Ice Spider Den
-- A long-lost stone fort can be found rarely in icy biomes. But beware, as it seems your are not the first to find and inhabit this place...
-- An Ice Spider Den can be found branching off from the basement, full of harvestable eggs
-- A minidungeon also branches off from the den
-- "Infested Ruins" Furled Maps can be crafted, leading to this structure
+### Hang Nhện Băng
+- Một pháo đài đá bị mất từ lâu có thể được tìm thấy hiếm hoi ở các quần xã sinh vật băng giá. Nhưng hãy cẩn thận, vì dường như bạn không phải là người đầu tiên tìm thấy và sinh sống ở nơi này...
+- Một Hang Nhện Băng có thể được tìm thấy phân nhánh từ tầng hầm, đầy trứng có thể thu hoạch
+- Một hầm ngục nhỏ cũng phân nhánh từ hang
+- Bản đồ cuộn "Tàn Tích Bị Nhiễm Khuẩn" có thể được chế tạo, dẫn đến công trình này
 
 ![Ice Spider Den](/img/screenshots/ice_spider_den_outside.png)
 ![Ice Spider Den](/img/screenshots/ice_spider_den_cave.png)
 
-## Boss Dungeons
-### The Catacombs
-- The first randomly generated dungeon and boss fight of the mod, it is the magical stronghold of a king who died long ago and can be found deep underground
-- The Wayward Compass can be used to locate them
-- It is recommended to have enchanted diamond gear to take on the Dead King boss
+## Hầm Ngục Trùm
+### Hầm Mộ
+- Hầm ngục và trận đấu trùm được tạo ngẫu nhiên đầu tiên của bản mod, đây là thành trì ma thuật của một vị vua đã chết từ lâu và có thể được tìm thấy sâu dưới lòng đất
+- La Bàn Lạc Lối có thể được sử dụng để định vị chúng
+- Nên có trang bị kim cương đã được phù phép để đối đầu với trùm Vua Chết
 
 ![The Catacombs](/img/the_catacombs.png)
 
-### The Citadel
-- An ancient monument in the Nether belonging to a time long past. Ancient Maps can be crafted to locate the structure
-- Cinderous Soulcaller used to summon the boss
+### Thành Cổ
+- Một di tích cổ ở Nether thuộc về một thời đã qua. Bản Đồ Cổ có thể được chế tạo để định vị công trình
+- Kẻ Gọi Hồn Tro Tàn được sử dụng để triệu hồi trùm
 
 ![The Citadel](/img/citadel.png)
 
-## Gallery
-- Mountain Tower (Bottom Left)
-- Mangrove Hut (Top Middle)
-- Evoker Fort (Bottom Right)
-- The Catacombs (Top Right)
-- Ancient Battlegrounds (Top Left)
+## Thư Viện Ảnh
+- Tháp Núi (Dưới Cùng Bên Trái)
+- Túp Lều Ngập Mặn (Trên Cùng Ở Giữa)
+- Pháo Đài Evoker (Dưới Cùng Bên Phải)
+- Hầm Mộ (Trên Cùng Bên Phải)
+- Chiến Trường Cổ Đại (Trên Cùng Bên Trái)
 ![Structures](/img/screenshots/structures.png)
 ![Structures](/img/screenshots/magic_loot.png)
 ![Structures](/img/screenshots/ancient_city_loot.png)

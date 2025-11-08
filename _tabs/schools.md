@@ -5,54 +5,54 @@ order: 9
 toc: true
 ---
 
-## <u>Overview</u>
-Each magical spell belong to a school of magic. Each school encapsulates a theme, both visually and functionally, and each have a Focus: a representative item used as a crafting ingredient. Furthermore, each school can be empowered by specific school related gear, allowing you to become a powerful master of a single school, or mix and match to become a jack of all trades.
+## <u>Tổng Quan</u>
+Mỗi một thần chú đều thuộc về một trường phái phép thuật. Mỗi trường phái gói gọn một chủ đề, cả về mặt hình ảnh lẫn chức năng, và mỗi trường phái đều có một vật phẩm tiêu điểm (Focus): một vật phẩm đại diện được sử dụng làm nguyên liệu chế tạo. Hơn nữa, mỗi trường phái có thể được tăng sức mạnh bởi các trang bị liên quan đến trường phái đó, cho phép bạn trở thành một bậc thầy mạnh mẽ của một trường phái duy nhất, hoặc kết hợp và phối đồ để trở thành một kẻ đa tài.
 
-### <u>Fire</u>
+### <u>Hỏa Thuật</u>
 
-The Fire school, with a Blaze Rod as its Focus, is centered around damage and damage over time.
+Trường phái Hỏa thuật, với Lõi Quỷ Lửa (Blaze Rod) làm Tiêu điểm, tập trung vào sát thương và sát thương theo thời gian.
 
-[Fire Spells](../spells/#fire-spells)
-### <u>Ice</u>
+[Thần Chú Hỏa Thuật](../spells/#fire-spells)
+### <u>Băng Thuật</u>
 
-The Ice school, with a [Frozen Bone](../items/#irons_spellbooks:frozen_bone) as its Focus, is centered around damage and crowd control.
+Trường phái Băng thuật, với [Xương Đông Lạnh (Frozen Bone)](../items/#irons_spellbooks:frozen_bone) làm Tiêu điểm, tập trung vào sát thương và kiểm soát đám đông.
 
-[Ice Spells](../spells/#ice-spells)
+[Thần Chú Băng Thuật](../spells/#ice-spells)
 
-### <u>Lightning</u>
+### <u>Lôi Thuật</u>
 
-The Lightning school, with a [Bottle o' Lightning](../items/#irons_spellbooks:lightning_bottle) as its Focus, is centered around concentrated damage.
+Trường phái Lôi thuật, với [Lọ Sét (Bottle o' Lightning)](../items/#irons_spellbooks:lightning_bottle) làm Tiêu điểm, tập trung vào sát thương tập trung.
 
-[Lightning Spells](../spells/#lightning-spells)
-### <u>Holy</u>
+[Thần Chú Lôi Thuật](../spells/#lightning-spells)
+### <u>Thánh Thuật</u>
 
-The Holy school, with the [Divine Pearl](../items/#irons_spellbooks:divine_pearl) as its Focus, is centered around support, healing, and buffing allies.
+Trường phái Thánh thuật, với [Ngọc Trai Thần Thánh (Divine Pearl)](../items/#irons_spellbooks:divine_pearl) làm Tiêu điểm, tập trung vào hỗ trợ, chữa lành và tăng sức mạnh cho đồng minh.
 
-[Holy Spells](../spells/#holy-spells)
-### <u>Ender</u>
+[Thần Chú Thánh Thuật](../spells/#holy-spells)
+### <u>Dịch Chuyển (Ender)</u>
 
-The Ender school, with an Ender Pearl as its Focus, is themed around all things arcane and mystical, with spells that range from damage to utility to mobility.
+Trường phái Ender, với Ngọc Ender (Ender Pearl) làm Tiêu điểm, có chủ đề xoay quanh tất cả những gì bí ẩn và thần bí, với các thần chú từ sát thương đến tiện ích và di động.
 
-[Ender Spells](../spells/#ender-spells)
-### <u>Blood</u>
+[Thần Chú Ender](../spells/#ender-spells)
+### <u>Huyết Thuật</u>
 
-The Blood school, with a [Blood Vial](../items/#irons_spellbooks:blood_vial) as its Focus, is themed around evil; you will find elements of necromancy, wither, and blood magic here, with spells focusing on damage that buffs the caster.
+Trường phái Huyết thuật, với [Lọ Máu (Blood Vial)](../items/#irons_spellbooks:blood_vial) làm Tiêu điểm, có chủ đề xoay quanh cái ác; bạn sẽ tìm thấy các yếu tố của ma thuật chiêu hồn, khô héo và huyết thuật ở đây, với các thần chú tập trung vào sát thương giúp tăng sức mạnh cho người sử dụng.
 
-[Blood Spells](../spells/#blood-spells)
-### <u>Evocation</u>
+[Thần Chú Huyết Thuật](../spells/#blood-spells)
+### <u>Huyễn Thuật (Evocation)</u>
 
-The Evocation school, with an Emerald as its Focus, is themed around magical trickery and conjuration, covering the broadest range of offensive, defensive, and utility spells.
+Trường phái Huyễn thuật, với Ngọc Lục Bảo (Emerald) làm Tiêu điểm, có chủ đề xoay quanh các trò lừa bịp và triệu hồi ma thuật, bao gồm phạm vi rộng nhất của các thần chú tấn công, phòng thủ và tiện ích.
 
-[Evocation Spells](../spells/#evocation-spells)
-### <u>Nature</u>
+[Thần Chú Huyễn Thuật](../spells/#evocation-spells)
+### <u>Mộc Thuật (Nature)</u>
 
-The Nature school, with a Poisonous Potato as its Focus, is focused on applying debuffs to enemies, with elements of damage to finish them off.
+Trường phái Mộc thuật, với Khoai Tây Độc (Poisonous Potato) làm Tiêu điểm, tập trung vào việc áp dụng các hiệu ứng bất lợi lên kẻ thù, với các yếu tố sát thương để kết liễu chúng.
 
-[Nature Spells](../spells/#nature-spells)
-### <u>Eldritch</u>
+[Thần Chú Mộc Thuật](../spells/#nature-spells)
+### <u>Cổ Thuật (Eldritch)</u>
 
-The Eldritch school is not like the others. It is an ancient and powerful way of magic, one that has all but been forgotten; you will be unable to immediately craft or cast Eldritch Spells. However, shreds of ancient Eldritch manuscripts ([Ancient Knowledge Fragment](../items/#irons_spellbooks:ancient_knowledge_fragment)) can still be found scattered throughout the world, and may even be pieced back together with the help of an echo shard to craft a complete [Eldritch Manuscript](../items/#irons_spellbooks:eldritch_manuscript).
+Trường phái Cổ thuật không giống những trường phái khác. Đó là một loại ma thuật cổ xưa và mạnh mẽ, một loại đã gần như bị lãng quên; bạn sẽ không thể chế tạo hoặc sử dụng Thần Chú Cổ Thuật ngay lập tức. Tuy nhiên, những mảnh vỡ của các bản thảo Cổ thuật cổ xưa ([Mảnh Vỡ Tri Thức Cổ Xưa (Ancient Knowledge Fragment)](../items/#irons_spellbooks:ancient_knowledge_fragment)) vẫn có thể được tìm thấy rải rác khắp thế giới, và thậm chí có thể được ghép lại với sự trợ giúp của một mảnh tiếng vọng (echo shard) để chế tạo một [Bản Thảo Cổ Thuật (Eldritch Manuscript)](../items/#irons_spellbooks:eldritch_manuscript) hoàn chỉnh.
 
-Once a manuscript has been restored, it can be consumed to learn a single Eldritch spell, enabling the crafting and casting of it. After being learned, the Echo Shard is used as the focus.
+Sau khi một bản thảo đã được phục hồi, nó có thể được sử dụng để học một thần chú Cổ thuật duy nhất, cho phép chế tạo và sử dụng nó. Sau khi học, Mảnh Tiếng Vọng (Echo Shard) được sử dụng làm tiêu điểm.
 
-[Eldritch Spells](../spells/#eldritch-spells)
+[Thần Chú Cổ Thuật](../spells/#eldritch-spells)

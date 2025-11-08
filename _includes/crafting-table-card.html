@@ -1,0 +1,94 @@
+{% assign recipe = include.recipe %}
+{% assign desc = include.desc %}
+
+{% if include.pixelated %}
+  {%assign p = "image-rendering: pixelated;" %}
+{% else %}
+  {%assign p = "" %}
+{%endif%}
+
+<div class="crafting-container">
+  <div class="crafting-header">
+    <h3 id="{{recipe.id}}" class="crafting-title">{{recipe.name}}</h3>
+  </div>
+  <div class="crafting-body">
+    <div style="display: flex">
+      <div style="min-width: 136px; max-width: 136px; position: relative; padding-left: 0px">
+        <div id="image_wrapper" style="position: relative">
+          <img src="/img/spell_frame.png" style="width: 120px; image-rendering: pixelated; position: relative; top:0px; left: 10px;">
+          <img src="/img/item_background.png" style="width: 80px; {{p}} position: absolute; top: 35px; left: 30px;">
+          <img src="{{recipe.path}}" style="width: 75px; {{p}} position: absolute; top: 36px; left: 31px;" title="{{recipe.name}}">
+        </div>
+      </div>
+      <div style="padding: 5px; margin-top: 3px; text-align: left">
+        {{desc}}
+
+        {% if recipe.tooltip != "" and desc != "" and recipe.tooltip  != desc %}
+          <hr style="border-color: rgba(255,255,255,.2);">
+        {% endif %}
+
+        {% if recipe.tooltip != "" and recipe.tooltip != desc %}
+          {{recipe.tooltip| replace: ",", "<br>" }}
+        {% endif %}
+      </div>
+
+      {% if recipe.craftingType == "crafting" %}
+        {%assign padding = "5" %}
+        {%assign size = "26" %}
+        {%assign top = "12" %}
+        {%assign left = "10" %}
+
+        <div style="min-width: 220px; max-width:220px; position: relative; float: right; margin-top: 15px; margin-left: auto">
+          <img id="crafting_table" src="/img/crafting_table.png" style="width: 420px; {{p}} position: relative; top:0; left: 0;">
+          {% if recipe.item0Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item0Id}}">{% endif%}
+            <img id="slot1" src="{{recipe.item0Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top}}px; left: {{left}}px;" title="{{recipe.item0}}">
+          {% if recipe.item0Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item1Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item1Id}}">{% endif%}
+            <img id="slot2" src="{{recipe.item1Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top}}px; left: {{left | plus:padding | plus:size}}px;" title="{{recipe.item1}}">
+          {% if recipe.item1Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item2Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item2Id}}">{% endif%}
+          <img id="slot3" src="{{recipe.item2Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top}}px; left: {{left | plus:padding | plus:size | plus: padding | plus: size}}px;" title="{{recipe.item2}}">
+          {% if recipe.item2Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item3Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item3Id}}">{% endif%}
+          <img id="slot4" src="{{recipe.item3Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top | plus:padding | plus:size}}px; left: {{left}}px;" title="{{recipe.item3}}">
+          {% if recipe.item3Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item4Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item4Id}}">{% endif%}
+          <img id="slot5" src="{{recipe.item4Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top | plus:padding | plus:size}}px; left: {{left | plus:padding | plus:size}}px;" title="{{recipe.item4}}">
+          {% if recipe.item4Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item5Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item5Id}}">{% endif%}
+          <img id="slot6" src="{{recipe.item5Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top | plus:padding | plus:size}}px; left: {{left | plus:padding | plus:size | plus: padding | plus: size}}px;" title="{{recipe.item5}}">
+          {% if recipe.item5Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item6Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item6Id}}">{% endif%}
+          <img id="slot7" src="{{recipe.item6Path}}" style="width: {{size}}px;{{p}} position: absolute; top: {{top | plus:padding | plus:size | plus: padding | plus: size}}px; left: {{left}}px;" title="{{recipe.item6}}">
+          {% if recipe.item6Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item7Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item7Id}}">{% endif%}
+          <img id="slot8" src="{{recipe.item7Path}}" style="width: {{size}}px; {{p}} position: absolute; top: {{top | plus:padding | plus:size | plus: padding | plus: size}}px; left: {{left | plus:padding | plus:size}}px;" title="{{recipe.item7}}">
+          {% if recipe.item7Id contains "irons_spellbook" %}</a>{% endif%}
+
+          {% if recipe.item8Id contains "irons_spellbook" %}<a href="../items/#{{recipe.item8Id}}">{% endif%}
+          <img id="slot9" src="{{recipe.item8Path}}" style="width: {{size}}px;{{p}} position: absolute; top: {{top | plus:padding | plus:size | plus: padding | plus: size}}px; left: {{left | plus:padding | plus:size | plus: padding | plus: size}}px;" title="{{recipe.item8}}">
+          {% if recipe.item8Id contains "irons_spellbook" %}</a>{% endif%}
+
+          <img id="output" src="{{recipe.path}}" style="width: 38px; {{p}} position: absolute; top: 38px; left: 165px;" title="{{recipe.name}}">
+        </div>
+      {% elsif recipe.craftingType == "smithing" %}
+        {%assign size = "26" %}
+        {%assign top = "88" %}
+        <div style="min-width: 220px; max-width:220px; position: relative; float: right; margin-top: 15px; margin-left: auto">
+          <img id="crafting_table" src="/img/smithing_table.png" style="width: 420px; image-rendering: pixelated; position: relative; top:0; left: 0;">
+          <img id="slot1" src="{{recipe.item0Path}}" style="width: {{size}}px; image-rendering: pixelated; position: absolute; top: {{top}}px; left: 16px ;" title="{{recipe.item0}}">
+          <img id="slot2" src="{{recipe.item1Path}}" style="width: {{size}}px; image-rendering: pixelated; position: absolute; top: {{top}}px; left: 48px;" title="{{recipe.item1}}">
+          <img id="slot3" src="{{recipe.item2Path}}" style="width: {{size}}px; image-rendering: pixelated; position: absolute; top: {{top}}px; left: 81px;" title="{{recipe.item2}}">
+          <img id="output" src="{{recipe.path}}"     style="width: {{size}}px; image-rendering: pixelated; position: absolute; top: {{top}}px; left: 178px;" title="{{recipe.name}}">
+        </div>
+      {%endif%}
+    </div>
+  </div>
+</div>

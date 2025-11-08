@@ -1,0 +1,2027 @@
+[
+
+  {
+  "title": "Ring of No Affinity",
+  "url": "/1_19/curios/?s=irons_spellbooks:affinity_ring#irons_spellbooks:affinity_ring",
+  "imgUrl": "/1_19/img/items/affinity_ring.png",
+  "content": "Affinity Rings are randomly generated as loot, and will boost the level of a select spell by one. This effect can stack. "
+  },
+
+  {
+  "title": "Amethyst Resonance Charm",
+  "url": "/1_19/curios/?s=irons_spellbooks:amethyst_resonance_charm#irons_spellbooks:amethyst_resonance_charm",
+  "imgUrl": "/1_19/img/items/amethyst_resonance_charm.png",
+  "content": "When around neck:<br> +15% Mana Regeneration "
+  },
+
+  {
+  "title": "Ring of Expediency",
+  "url": "/1_19/curios/?s=irons_spellbooks:cast_time_ring#irons_spellbooks:cast_time_ring",
+  "imgUrl": "/1_19/img/items/cast_time_ring.png",
+  "content": "When worn as ring:<br> +15% Cast Time Reduction "
+  },
+
+  {
+  "title": "Amulet of Concentration",
+  "url": "/1_19/curios/?s=irons_spellbooks:concentration_amulet#irons_spellbooks:concentration_amulet",
+  "imgUrl": "/1_19/img/items/concentration_amulet.png",
+  "content": "When around neck:<br>  Long Casts become uninterruptible "
+  },
+
+  {
+  "title": "Conjurer's Talisman",
+  "url": "/1_19/curios/?s=irons_spellbooks:conjurers_talisman#irons_spellbooks:conjurers_talisman",
+  "imgUrl": "/1_19/img/items/conjurers_talisman.png",
+  "content": "When around neck:<br> +10% Summon Damage "
+  },
+
+  {
+  "title": "Ring of Recovery",
+  "url": "/1_19/curios/?s=irons_spellbooks:cooldown_ring#irons_spellbooks:cooldown_ring",
+  "imgUrl": "/1_19/img/items/cooldown_ring.png",
+  "content": "When worn as ring:<br> +15% Cooldown Reduction "
+  },
+
+  {
+  "title": "Emerald Stoneplate Ring",
+  "url": "/1_19/curios/?s=irons_spellbooks:emerald_stoneplate_ring#irons_spellbooks:emerald_stoneplate_ring",
+  "imgUrl": "/1_19/img/items/emerald_stoneplate_ring.png",
+  "content": "When worn as ring:<br>  Slain creatures drop +25% experience "
+  },
+
+  {
+  "title": "Fireward Ring",
+  "url": "/1_19/curios/?s=irons_spellbooks:fireward_ring#irons_spellbooks:fireward_ring",
+  "imgUrl": "/1_19/img/items/fireward_ring.png",
+  "content": "When worn as ring:<br>  Grants fire immunity "
+  },
+
+  {
+  "title": "Frostward Ring",
+  "url": "/1_19/curios/?s=irons_spellbooks:frostward_ring#irons_spellbooks:frostward_ring",
+  "imgUrl": "/1_19/img/items/frostward_ring.png",
+  "content": "When worn as ring:<br>  Grants freezing immunity "
+  },
+
+  {
+  "title": "Heavy Chain",
+  "url": "/1_19/curios/?s=irons_spellbooks:heavy_chain_necklace#irons_spellbooks:heavy_chain_necklace",
+  "imgUrl": "/1_19/img/items/heavy_chain_necklace.png",
+  "content": "When around neck:<br> +15% Spell Resistance "
+  },
+
+  {
+  "title": "Ring of Mana",
+  "url": "/1_19/curios/?s=irons_spellbooks:mana_ring#irons_spellbooks:mana_ring",
+  "imgUrl": "/1_19/img/items/mana_ring.png",
+  "content": "When worn as ring:<br> +100 Max Mana "
+  },
+
+  {
+  "title": "Poisonward Ring",
+  "url": "/1_19/curios/?s=irons_spellbooks:poisonward_ring#irons_spellbooks:poisonward_ring",
+  "imgUrl": "/1_19/img/items/poisonward_ring.png",
+  "content": "When worn as ring:<br>  Grants poison immunity "
+  },
+
+  {
+  "title": "Silver Ring",
+  "url": "/1_19/curios/?s=irons_spellbooks:silver_ring#irons_spellbooks:silver_ring",
+  "imgUrl": "/1_19/img/items/silver_ring.png",
+  "content": "When worn as ring:<br> +25 Max Mana "
+  },
+
+
+
+  
+  {
+  "title": "Alchemist Cauldron",
+  "url": "/1_19/blocks/?s=irons_spellbooks:alchemist_cauldron#irons_spellbooks:alchemist_cauldron",
+  "imgUrl": "/1_19/img/items/alchemist_cauldron.png",
+  "content": "Can be used to brew potions, craft elixirs, recycle scrolls, and upgrade ink. If a mob or player is placed in it while there is water, blood vials can also be produced. It has 4 input and 4 output slots, and must have water in it to activate. Right click to place a valid item into the input slots, and right click with a glass bottle to extract an output item. "
+  },
+
+  
+  {
+  "title": "Arcane Anvil",
+  "url": "/1_19/blocks/?s=irons_spellbooks:arcane_anvil#irons_spellbooks:arcane_anvil",
+  "imgUrl": "/1_19/img/items/arcane_anvil.png",
+  "content": "Used to upgrade scrolls, upgrade equipment, and imbue weapons "
+  },
+
+  
+  {
+  "title": "Arcane Debris",
+  "url": "/1_19/blocks/?s=irons_spellbooks:arcane_debris#irons_spellbooks:arcane_debris",
+  "imgUrl": "/1_19/img/items/arcane_debris.png",
+  "content": "The magical Overworld equivalent of ancient debris, it can be found below y = -38, unexposed to air. Requires a netherite pickaxe to harvest. Used to smelt <a href=\"../items/#irons_spellbooks:arcane_salvage\">Arcane Salvage</a> "
+  },
+
+  
+  {
+  "title": "Armor Pile",
+  "url": "/1_19/blocks/?s=irons_spellbooks:armor_pile#irons_spellbooks:armor_pile",
+  "imgUrl": "/1_19/img/items/armor_pile.png",
+  "content": "Found scattered throughout Ancient Battlegrounds. Harvesting with a diamond pickaxe will cause an Ancient Knight to spawn. "
+  },
+
+  
+  {
+  "title": "Firefly Jar",
+  "url": "/1_19/blocks/?s=irons_spellbooks:firefly_jar#irons_spellbooks:firefly_jar",
+  "imgUrl": "/1_19/img/items/firefly_jar.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Inscription Table",
+  "url": "/1_19/blocks/?s=irons_spellbooks:inscription_table#irons_spellbooks:inscription_table",
+  "imgUrl": "/1_19/img/items/inscription_table.png",
+  "content": "Used to slot spells from scrolls into spell books for repeated use. "
+  },
+
+  
+  {
+  "title": "Pedestal",
+  "url": "/1_19/blocks/?s=irons_spellbooks:pedestal#irons_spellbooks:pedestal",
+  "imgUrl": "/1_19/img/items/pedestal.png",
+  "content": "Unused block "
+  },
+
+  
+  {
+  "title": "Scroll Forge",
+  "url": "/1_19/blocks/?s=irons_spellbooks:scroll_forge#irons_spellbooks:scroll_forge",
+  "imgUrl": "/1_19/img/items/scroll_forge.png",
+  "content": "Used to craft scrolls. The ink used determines the rarity of the spells. The level will always be the lowest level of that rarity. You cannot use an ink that is less rare than the minimum rarity of the scroll. "
+  },
+
+
+
+  
+  {
+  "title": "Ancient Knowledge Fragment",
+  "url": "/1_19/items/?s=irons_spellbooks:ancient_knowledge_fragment#irons_spellbooks:ancient_knowledge_fragment",
+  "imgUrl": "/1_19/img/items/ancient_knowledge_fragment.png",
+  "content": "Can be found rarely in bookshelf loot, more commonly in Ancient Cities, or traded for by Wandering Traders "
+  },
+
+  
+  {
+  "title": "Arcane Essence",
+  "url": "/1_19/items/?s=irons_spellbooks:arcane_essence#irons_spellbooks:arcane_essence",
+  "imgUrl": "/1_19/img/items/arcane_essence.png",
+  "content": "A common magic material used in many recipes. Can be found sparsely in vanilla structures, but much more commonly in magic structures or from killing magic mobs. "
+  },
+
+  
+  {
+  "title": "Arcane Ingot",
+  "url": "/1_19/items/?s=irons_spellbooks:arcane_ingot#irons_spellbooks:arcane_ingot",
+  "imgUrl": "/1_19/img/items/arcane_ingot.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Arcane Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:arcane_rune#irons_spellbooks:arcane_rune",
+  "imgUrl": "/1_19/img/items/arcane_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Arcane Salvage",
+  "url": "/1_19/items/?s=irons_spellbooks:arcane_salvage#irons_spellbooks:arcane_salvage",
+  "imgUrl": "/1_19/img/items/arcane_salvage.png",
+  "content": "A late game material used for upgrade orbs, smelted from <a href=\"../blocks/#irons_spellbooks:arcane_debris\">Arcane Debris</a> "
+  },
+
+  
+  {
+  "title": "Blank Runestone",
+  "url": "/1_19/items/?s=irons_spellbooks:blank_rune#irons_spellbooks:blank_rune",
+  "imgUrl": "/1_19/img/items/blank_rune.png",
+  "content": "The base for all other runes to be crafted from. Can be found rarely in some vanilla structures, or more commonly in magic structures. Each school mage drops one for their school on death. "
+  },
+
+  
+  {
+  "title": "Blood Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:blood_rune#irons_spellbooks:blood_rune",
+  "imgUrl": "/1_19/img/items/blood_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Blood Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:blood_upgrade_orb#irons_spellbooks:blood_upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb_blood.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Blood Vial",
+  "url": "/1_19/items/?s=irons_spellbooks:blood_vial#irons_spellbooks:blood_vial",
+  "imgUrl": "/1_19/img/items/blood_vial.png",
+  "content": "Blood Focus. Place a lit campfire beneath a cauldron, and put a mob in the cauldron to cook the mob. This will fill the cauldron with blood, which can be withdrawn with glass bottles to obtain vials of blood. "
+  },
+
+  
+  {
+  "title": "Cinder Essence",
+  "url": "/1_19/items/?s=irons_spellbooks:cinder_essence#irons_spellbooks:cinder_essence",
+  "imgUrl": "/1_19/img/items/cinder_essence.gif",
+  "content": "Dropped from Ancient Knights. Used for upgrade orbs "
+  },
+
+  
+  {
+  "title": "Common Ink",
+  "url": "/1_19/items/?s=irons_spellbooks:common_ink#irons_spellbooks:common_ink",
+  "imgUrl": "/1_19/img/items/common_ink.png",
+  "content": "Found commonly in magic structures or from killing powerful magic mobs "
+  },
+
+  
+  {
+  "title": "Recovery Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:cooldown_rune#irons_spellbooks:cooldown_rune",
+  "imgUrl": "/1_19/img/items/cooldown_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Cooldown Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:cooldown_upgrade_orb#irons_spellbooks:cooldown_upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb_cooldown.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Divine Pearl",
+  "url": "/1_19/items/?s=irons_spellbooks:divine_pearl#irons_spellbooks:divine_pearl",
+  "imgUrl": "/1_19/img/items/divine_pearl.png",
+  "content": "Holy Focus "
+  },
+
+  
+  {
+  "title": "Dragonskin",
+  "url": "/1_19/items/?s=irons_spellbooks:dragonskin#irons_spellbooks:dragonskin",
+  "imgUrl": "/1_19/img/items/dragonskin.png",
+  "content": "Dropped from the Ender Dragon "
+  },
+
+  
+  {
+  "title": "Eldritch Manuscript",
+  "url": "/1_19/items/?s=irons_spellbooks:eldritch_manuscript#irons_spellbooks:eldritch_manuscript",
+  "imgUrl": "/1_19/img/items/eldritch_manuscript.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Ender Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:ender_rune#irons_spellbooks:ender_rune",
+  "imgUrl": "/1_19/img/items/ender_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Ender Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:ender_upgrade_orb#irons_spellbooks:ender_upgrade_orb",
+  "imgUrl": "/1_19/img/items/ender_upgrade_orb.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Epic Ink",
+  "url": "/1_19/items/?s=irons_spellbooks:epic_ink#irons_spellbooks:epic_ink",
+  "imgUrl": "/1_19/img/items/epic_ink.png",
+  "content": "Found rarely in magic structures or from killing powerful magic mobs "
+  },
+
+  
+  {
+  "title": "Evasion Elixir",
+  "url": "/1_19/items/?s=irons_spellbooks:evasion_elixir#irons_spellbooks:evasion_elixir",
+  "imgUrl": "/1_19/img/items/evasion_elixir.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Evocation Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:evocation_rune#irons_spellbooks:evocation_rune",
+  "imgUrl": "/1_19/img/items/evocation_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Evocation Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:evocation_upgrade_orb#irons_spellbooks:evocation_upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb_evocation.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Fire Ale",
+  "url": "/1_19/items/?s=irons_spellbooks:fire_ale#irons_spellbooks:fire_ale",
+  "imgUrl": "/1_19/img/items/fire_ale.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Fire Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:fire_rune#irons_spellbooks:fire_rune",
+  "imgUrl": "/1_19/img/items/fire_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Fire Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:fire_upgrade_orb#irons_spellbooks:fire_upgrade_orb",
+  "imgUrl": "/1_19/img/items/fire_upgrade_orb.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Frosted Helve",
+  "url": "/1_19/items/?s=irons_spellbooks:frosted_helve#irons_spellbooks:frosted_helve",
+  "imgUrl": "/1_19/img/items/frosted_helve.png",
+  "content": "Crafting Ingredient "
+  },
+
+  
+  {
+  "title": "Frozen Bone",
+  "url": "/1_19/items/?s=irons_spellbooks:frozen_bone#irons_spellbooks:frozen_bone",
+  "imgUrl": "/1_19/img/items/frozen_bone.png",
+  "content": "Ice Focus. Dropped from strays "
+  },
+
+  
+  {
+  "title": "Furled Map",
+  "url": "/1_19/items/?s=irons_spellbooks:furled_map#irons_spellbooks:furled_map",
+  "imgUrl": "/1_19/img/items/furled_map.png",
+  "content": "Produces an explorer map when used. NBT driven. "
+  },
+
+  
+  {
+  "title": "Greater Evasion Elixir",
+  "url": "/1_19/items/?s=irons_spellbooks:greater_evasion_elixir#irons_spellbooks:greater_evasion_elixir",
+  "imgUrl": "/1_19/img/items/greater_evasion_elixir.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Greater Potion of Healing",
+  "url": "/1_19/items/?s=irons_spellbooks:greater_healing_potion#irons_spellbooks:greater_healing_potion",
+  "imgUrl": "/1_19/img/items/greater_healing_potion.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Greater Invisibility Elixir",
+  "url": "/1_19/items/?s=irons_spellbooks:greater_invisibility_elixir#irons_spellbooks:greater_invisibility_elixir",
+  "imgUrl": "/1_19/img/items/greater_invisibility_elixir.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Greater Oakskin Elixir",
+  "url": "/1_19/items/?s=irons_spellbooks:greater_oakskin_elixir#irons_spellbooks:greater_oakskin_elixir",
+  "imgUrl": "/1_19/img/items/greater_oakskin_elixir.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Hither-Thither Wand",
+  "url": "/1_19/items/?s=irons_spellbooks:hither_thither_wand#irons_spellbooks:hither_thither_wand",
+  "imgUrl": "/1_19/img/items/hither_thither_wand.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Hogskin",
+  "url": "/1_19/items/?s=irons_spellbooks:hogskin#irons_spellbooks:hogskin",
+  "imgUrl": "/1_19/img/items/hogskin.png",
+  "content": "Dropped from hoglins "
+  },
+
+  
+  {
+  "title": "Holy Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:holy_rune#irons_spellbooks:holy_rune",
+  "imgUrl": "/1_19/img/items/holy_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Holy Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:holy_upgrade_orb#irons_spellbooks:holy_upgrade_orb",
+  "imgUrl": "/1_19/img/items/holy_upgrade_orb.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Ice Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:ice_rune#irons_spellbooks:ice_rune",
+  "imgUrl": "/1_19/img/items/ice_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Ice Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:ice_upgrade_orb#irons_spellbooks:ice_upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb_ice.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Invisibility Elixir",
+  "url": "/1_19/items/?s=irons_spellbooks:invisibility_elixir#irons_spellbooks:invisibility_elixir",
+  "imgUrl": "/1_19/img/items/invisibility_elixir.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Legendary Ink",
+  "url": "/1_19/items/?s=irons_spellbooks:legendary_ink#irons_spellbooks:legendary_ink",
+  "imgUrl": "/1_19/img/items/legendary_ink.png",
+  "content": "Found very rarely in magic structures or from killing powerful magic mobs "
+  },
+
+  
+  {
+  "title": "Bottle o' Lightning",
+  "url": "/1_19/items/?s=irons_spellbooks:lightning_bottle#irons_spellbooks:lightning_bottle",
+  "imgUrl": "/1_19/img/items/lightning_bottle.gif",
+  "content": "Lightning Focus. Use an empty bottle on a charged creeper to obtain.  You can use the <a href=\"../spells/#Lightning%20Bolt\">Lightning Bolt</a> Spell, lightning rod or trident to charge a creeper. "
+  },
+
+  
+  {
+  "title": "Lightning Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:lightning_rune#irons_spellbooks:lightning_rune",
+  "imgUrl": "/1_19/img/items/lightning_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Lightning Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:lightning_upgrade_orb#irons_spellbooks:lightning_upgrade_orb",
+  "imgUrl": "/1_19/img/items/lightning_upgrade_orb.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Arcane Cloth",
+  "url": "/1_19/items/?s=irons_spellbooks:magic_cloth#irons_spellbooks:magic_cloth",
+  "imgUrl": "/1_19/img/items/magic_cloth.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Mana Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:mana_upgrade_orb#irons_spellbooks:mana_upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb_mana.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Nature Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:nature_rune#irons_spellbooks:nature_rune",
+  "imgUrl": "/1_19/img/items/nature_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Nature Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:nature_upgrade_orb#irons_spellbooks:nature_upgrade_orb",
+  "imgUrl": "/1_19/img/items/nature_upgrade_orb.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Netherward Tincture",
+  "url": "/1_19/items/?s=irons_spellbooks:netherward_tincture#irons_spellbooks:netherward_tincture",
+  "imgUrl": "/1_19/img/items/netherward_tincture.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Oakskin Elixir",
+  "url": "/1_19/items/?s=irons_spellbooks:oakskin_elixir#irons_spellbooks:oakskin_elixir",
+  "imgUrl": "/1_19/img/items/oakskin_elixir.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Permafrost Shard",
+  "url": "/1_19/items/?s=irons_spellbooks:permafrost_shard#irons_spellbooks:permafrost_shard",
+  "imgUrl": "/1_19/img/items/permafrost_shard.png",
+  "content": "Crafting Ingredient. Found in Impaled Icebreaker Shipwrecks. "
+  },
+
+  
+  {
+  "title": "Protective Rune",
+  "url": "/1_19/items/?s=irons_spellbooks:protection_rune#irons_spellbooks:protection_rune",
+  "imgUrl": "/1_19/img/items/protection_rune.png",
+  "content": "Crafting ingredient "
+  },
+
+  
+  {
+  "title": "Protection Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:protection_upgrade_orb#irons_spellbooks:protection_upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb_protection.gif",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Rare Ink",
+  "url": "/1_19/items/?s=irons_spellbooks:rare_ink#irons_spellbooks:rare_ink",
+  "imgUrl": "/1_19/img/items/rare_ink.png",
+  "content": "Found rarely in magic structures or from killing powerful magic mobs "
+  },
+
+  
+  {
+  "title": "Ruined Book",
+  "url": "/1_19/items/?s=irons_spellbooks:ruined_book#irons_spellbooks:ruined_book",
+  "imgUrl": "/1_19/img/items/ruined_book.gif",
+  "content": "Crafting ingredient. Can be found in Ancient Cities. "
+  },
+
+  
+  {
+  "title": "Shriving Stone",
+  "url": "/1_19/items/?s=irons_spellbooks:shriving_stone#irons_spellbooks:shriving_stone",
+  "imgUrl": "/1_19/img/items/shriving_stone.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Uncommon Ink",
+  "url": "/1_19/items/?s=irons_spellbooks:uncommon_ink#irons_spellbooks:uncommon_ink",
+  "imgUrl": "/1_19/img/items/uncommon_ink.png",
+  "content": "Found in magic structures or from killing powerful magic mobs "
+  },
+
+  
+  {
+  "title": "Empty Upgrade Orb",
+  "url": "/1_19/items/?s=irons_spellbooks:upgrade_orb#irons_spellbooks:upgrade_orb",
+  "imgUrl": "/1_19/img/items/upgrade_orb.gif",
+  "content": "The base for all other upgrade orbs to be crafted from "
+  },
+
+  
+  {
+  "title": "Wayward Compass",
+  "url": "/1_19/items/?s=irons_spellbooks:wayward_compass#irons_spellbooks:wayward_compass",
+  "imgUrl": "/1_19/img/items/wayward_compass.gif",
+  "content": "Once crafted, it finds the nearest <a href=\"../structures/#the-catacombs\">Catacombs</a> and leads you towards it "
+  },
+
+  
+  {
+  "title": "Lesser Spell Slot Improvement",
+  "url": "/1_19/items/?s=irons_spellbooks:lesser_spell_slot_upgrade#irons_spellbooks:lesser_spell_slot_upgrade",
+  "imgUrl": "/1_19/img/items/lesser_spell_slot_upgrade.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Energized Core",
+  "url": "/1_19/items/?s=irons_spellbooks:energized_core#irons_spellbooks:energized_core",
+  "imgUrl": "/1_19/img/items/energized_core.png",
+  "content": "Crafting ingredient "
+  },
+
+
+
+  
+  {
+  "title": "Artificer's Cane",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:artificer_cane#irons_spellbooks:artificer_cane",
+  "imgUrl": "/1_19/img/items/artificer_cane.png",
+  "content": "When in Either Hand:<br>  4 Attack Damage, 1 Attack Speed, 2.5 Attack Range, +15% Cast Time Reduction, +15% Cooldown Reduction, +10% Spell Power "
+  },
+
+  
+  {
+  "title": "Blaze Instruction Manual",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:blaze_spell_book#irons_spellbooks:blaze_spell_book",
+  "imgUrl": "/1_19/img/items/blaze_spell_book.png",
+  "content": "When equipped as Spell Book:<br> +10% Fire Spell Power "
+  },
+
+  
+  {
+  "title": "The Blood Staff",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:blood_staff#irons_spellbooks:blood_staff",
+  "imgUrl": "/1_19/img/items/blood_staff.png",
+  "content": "When in Either Hand:<br>  8 Attack Damage, 1 Attack Speed, 2.5 Attack Range, +15% Blood Spell Power, +5% Spell Power, +10% Summon Damage "
+  },
+
+  
+  {
+  "title": "Flimsy Journal",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:copper_spell_book#irons_spellbooks:copper_spell_book",
+  "imgUrl": "/1_19/img/items/copper_spell_book.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Enchanted Spell Book",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:diamond_spell_book#irons_spellbooks:diamond_spell_book",
+  "imgUrl": "/1_19/img/items/diamond_spell_book.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Dragonskin Spell Book",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:dragonskin_spell_book#irons_spellbooks:dragonskin_spell_book",
+  "imgUrl": "/1_19/img/items/dragonskin_spell_book.png",
+  "content": "When equipped as Spell Book:<br> +10% Ender Spell Power "
+  },
+
+  
+  {
+  "title": "Druidic Tome",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:druidic_spell_book#irons_spellbooks:druidic_spell_book",
+  "imgUrl": "/1_19/img/items/druidic_spell_book.png",
+  "content": "When equipped as Spell Book:<br> +10% Nature Spell Power "
+  },
+
+  
+  {
+  "title": "Grimoire of Evokation",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:evoker_spell_book#irons_spellbooks:evoker_spell_book",
+  "imgUrl": "/1_19/img/items/evoker_spell_book.png",
+  "content": "Fang Strike (6), Fang Ward (4), Summon Vex (4) "
+  },
+
+  
+  {
+  "title": "Apprentice's Spell Book",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:gold_spell_book#irons_spellbooks:gold_spell_book",
+  "imgUrl": "/1_19/img/items/gold_spell_book.png",
+  "content": "When equipped as Spell Book:<br> +15% Cast Time Reduction "
+  },
+
+  
+  {
+  "title": "Graybeard Staff",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:graybeard_staff#irons_spellbooks:graybeard_staff",
+  "imgUrl": "/1_19/img/items/graybeard_staff.png",
+  "content": "When in Either Hand:<br>  3 Attack Damage, 1 Attack Speed, 2.5 Attack Range, +10% Spell Power, +25% Mana Regeneration "
+  },
+
+  
+  {
+  "title": "Ice Staff",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:ice_staff#irons_spellbooks:ice_staff",
+  "imgUrl": "/1_19/img/items/ice_staff.png",
+  "content": "When in Either Hand:<br>  5 Attack Damage, 1 Attack Speed, 2.5 Attack Range, +25% Mana Regeneration, +15% Ice Spell Power, +5% Spell Power "
+  },
+
+  
+  {
+  "title": "Ironbound Tome",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:iron_spell_book#irons_spellbooks:iron_spell_book",
+  "imgUrl": "/1_19/img/items/iron_spell_book.png",
+  "content": " "
+  },
+
+  
+  {
+  "title": "Decrepit Flamberge",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:keeper_flamberge#irons_spellbooks:keeper_flamberge",
+  "imgUrl": "/1_19/img/items/keeper_flamberge.png",
+  "content": "Two-Handed, When in Main Hand:<br>  11 Attack Damage, 1.3 Attack Speed, 2.75 Attack Range, +5 Armor "
+  },
+
+  
+  {
+  "title": "Magehunter",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:magehunter#irons_spellbooks:magehunter",
+  "imgUrl": "/1_19/img/items/magehunter.png",
+  "content": "When in Main Hand:<br>  7 Attack Damage, 1.6 Attack Speed, 2.5 Attack Range, +25% Spell Resistance "
+  },
+
+  
+  {
+  "title": "Necronomicon",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:necronomicon_spell_book#irons_spellbooks:necronomicon_spell_book",
+  "imgUrl": "/1_19/img/items/necronomicon_spell_book.png",
+  "content": "Blood Slash (5), Blood Step (5), Ray of Siphoning (5), Blaze Storm (5) "
+  },
+
+  
+  {
+  "title": "Ancient Codex",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:netherite_spell_book#irons_spellbooks:netherite_spell_book",
+  "imgUrl": "/1_19/img/items/netherite_spell_book.gif",
+  "content": "When equipped as Spell Book:<br> +20% Cooldown Reduction "
+  },
+
+  
+  {
+  "title": "Rotten Spell Book",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:rotten_spell_book#irons_spellbooks:rotten_spell_book",
+  "imgUrl": "/1_19/img/items/rotten_spell_book.png",
+  "content": "When equipped as Spell Book:<br> -15% Spell Resistance "
+  },
+
+  
+  {
+  "title": "Villager Bible",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:villager_spell_book#irons_spellbooks:villager_spell_book",
+  "imgUrl": "/1_19/img/items/villager_spell_book.png",
+  "content": "When equipped as Spell Book:<br> +8% Cast Time Reduction, +8% Holy Spell Power "
+  },
+
+  
+  {
+  "title": "Rod o' Lightning",
+  "url": "/1_19/spellbooks/?s=irons_spellbooks:lightning_rod#irons_spellbooks:lightning_rod",
+  "imgUrl": "/1_19/img/items/lightning_rod.png",
+  "content": "When in Either Hand:<br>  5 Attack Damage, 1 Attack Speed, 2.5 Attack Range, +15% Cooldown Reduction, +5% Spell Power, +15% Lightning Spell Power "
+  },
+
+
+
+  
+  
+
+  {
+  "title": "Acupuncture",
+  "url": "/1_19/spells/?s=Acupuncture#Acupuncture",
+  "imgUrl": "/1_19/img/spells/acupuncture.png",
+  "content": "Around a targeted creature, create a field of blood needles in every direction, shooting down and healing you for 25% of damage done"
+  },
+
+  
+  
+
+  {
+  "title": "Blood Needles",
+  "url": "/1_19/spells/?s=Blood%20Needles#Blood%20Needles",
+  "imgUrl": "/1_19/img/spells/blood_needles.png",
+  "content": "Create a ring of needles made from blood and fire them forward, skewering targets and healing you for 25% of damage done"
+  },
+
+  
+  
+
+  {
+  "title": "Blood Slash",
+  "url": "/1_19/spells/?s=Blood%20Slash#Blood%20Slash",
+  "imgUrl": "/1_19/img/spells/blood_slash.png",
+  "content": "Slash forward to send out a concentrated blade of blood, slicing through creatures and healing for 15% of damage done."
+  },
+
+  
+  
+
+  {
+  "title": "Blood Step",
+  "url": "/1_19/spells/?s=Blood%20Step#Blood%20Step",
+  "imgUrl": "/1_19/img/spells/blood_step.png",
+  "content": "Instantaneously teleport to where you are looking, or directly behind any targeted creature. Gain a short duration of true invisibility upon reaching your destination."
+  },
+
+  
+  
+
+  {
+  "title": "Devour",
+  "url": "/1_19/spells/?s=Devour#Devour",
+  "imgUrl": "/1_19/img/spells/devour.png",
+  "content": "Pull in a nearby creature and attack them with a bite, leeching 15% of damage done as health. If the creature is killed, you temporarily gain additional max HP. Created by the ancient magician known as Yorhavich"
+  },
+
+  
+  
+
+  {
+  "title": "Heartstop",
+  "url": "/1_19/spells/?s=Heartstop#Heartstop",
+  "imgUrl": "/1_19/img/spells/heartstop.png",
+  "content": "Cast to inflict yourself with Heartstop, an effect that makes you temporarily invulnerable. However, once it wears off, you take 50% of all damage accumulated while under its effects."
+  },
+
+  
+  
+
+  {
+  "title": "Raise Dead",
+  "url": "/1_19/spells/?s=Raise%20Dead#Raise%20Dead",
+  "imgUrl": "/1_19/img/spells/raise_dead.png",
+  "content": "Cast to summon undead minions from the earth beneath you. The higher the power, the better equipment they will have."
+  },
+
+  
+  
+
+  {
+  "title": "Ray Of Siphoning",
+  "url": "/1_19/spells/?s=Ray%20Of%20Siphoning#Ray%20Of%20Siphoning",
+  "imgUrl": "/1_19/img/spells/ray_of_siphoning.png",
+  "content": "Hold to cast a ray of necrotic energy that siphons health from creatures it hits, damaging them and healing you for 100% of damage done."
+  },
+
+  
+  
+
+  {
+  "title": "Wither Skull",
+  "url": "/1_19/spells/?s=Wither%20Skull#Wither%20Skull",
+  "imgUrl": "/1_19/img/spells/wither_skull.png",
+  "content": "Launch a wither skull forward that explodes in a small radius around the impact. The higher the level, the faster the projectile."
+  },
+
+  
+  
+
+  {
+  "title": "Sacrifice",
+  "url": "/1_19/spells/?s=Sacrifice#Sacrifice",
+  "imgUrl": "/1_19/img/spells/sacrifice.png",
+  "content": "Target one of your magic summons to cause them to explode, killing them instantly, and dealing large damage in the area around them. The summon's remaining health boosts the damage dealt and radius of explosion."
+  },
+
+  
+  
+
+  {
+  "title": "Counterspell",
+  "url": "/1_19/spells/?s=Counterspell#Counterspell",
+  "imgUrl": "/1_19/img/spells/counterspell.png",
+  "content": " <ul> <li>Interrupt player and mob casting</li> <li>Banishes summoned shield , blood slash , creeper head</li> <li>Banishes summoned creatures</li> <li>Removes root</li> <li>Removes mob effects like fortify or evasion</li> </ul>"
+  },
+
+  
+  
+
+  {
+  "title": "Dragon Breath",
+  "url": "/1_19/spells/?s=Dragon%20Breath#Dragon%20Breath",
+  "imgUrl": "/1_19/img/spells/dragon_breath.png",
+  "content": "Hold to spew a cone of dragon breath forwards. Each time a creature is hit, there is a chance to create a pool of dragon breath at their feet."
+  },
+
+  
+  
+
+  {
+  "title": "Evasion",
+  "url": "/1_19/spells/?s=Evasion#Evasion",
+  "imgUrl": "/1_19/img/spells/evasion.png",
+  "content": "Cast to imbue yourself with ender energy. Upon being attacked while under its effects, you will immediately teleport within a short radius and avoid taking any damage. Only a finite amount of hits can be dodged before the effect immediately wears off."
+  },
+
+  
+  
+
+  {
+  "title": "Magic Arrow",
+  "url": "/1_19/spells/?s=Magic%20Arrow#Magic%20Arrow",
+  "imgUrl": "/1_19/img/spells/magic_arrow.png",
+  "content": "Hold to charge a piercing arrow made of arcane energy. This arrow has no gravity and can travel through blocks."
+  },
+
+  
+  
+
+  {
+  "title": "Magic Missile",
+  "url": "/1_19/spells/?s=Magic%20Missile#Magic%20Missile",
+  "imgUrl": "/1_19/img/spells/magic_missile.png",
+  "content": "Shoot a bolt of concentrated arcane magic. Also a trademark of every wizard."
+  },
+
+  
+  
+
+  {
+  "title": "Starfall",
+  "url": "/1_19/spells/?s=Starfall#Starfall",
+  "imgUrl": "/1_19/img/spells/starfall.png",
+  "content": "Target a single area and continuously rain down arcane comets from above for the duration of the spell"
+  },
+
+  
+  
+
+  {
+  "title": "Teleport",
+  "url": "/1_19/spells/?s=Teleport#Teleport",
+  "imgUrl": "/1_19/img/spells/teleport.png",
+  "content": "Instantaneously teleport to where you are looking, leaving nothing but a cloud of ender energy behind."
+  },
+
+  
+  
+
+  {
+  "title": "Summon Ender Chest",
+  "url": "/1_19/spells/?s=Summon%20Ender%20Chest#Summon%20Ender%20Chest",
+  "imgUrl": "/1_19/img/spells/summon_ender_chest.png",
+  "content": "Apparate your Ender Chest inventory upon casting."
+  },
+
+  
+  
+
+  {
+  "title": "Recall",
+  "url": "/1_19/spells/?s=Recall#Recall",
+  "imgUrl": "/1_19/img/spells/recall.png",
+  "content": "Warps you back to your spawn location, or world spawn if there is none."
+  },
+
+  
+  
+
+  {
+  "title": "Portal",
+  "url": "/1_19/spells/?s=Portal#Portal",
+  "imgUrl": "/1_19/img/spells/portal.png",
+  "content": "Creates two portals that allows players to travel back and forth between them."
+  },
+
+  
+  
+
+  {
+  "title": "Echoing Strikes",
+  "url": "/1_19/spells/?s=Echoing%20Strikes#Echoing%20Strikes",
+  "imgUrl": "/1_19/img/spells/echoing_strikes.png",
+  "content": "While under the effects of the spell, non-magical attacks will leave an echo of ender energy behind, shortly thereafter exploding with an echo of the original attack's damage."
+  },
+
+  
+  
+
+  {
+  "title": "Black Hole",
+  "url": "/1_19/spells/?s=Black%20Hole#Black%20Hole",
+  "imgUrl": "/1_19/img/spells/black_hole.png",
+  "content": "Around a targeted location, create a fissure into the void, manifesting a black hole that will suck in nearby creatures and slowly crush them to death"
+  },
+
+  
+  
+
+  {
+  "title": "Chain Creeper",
+  "url": "/1_19/spells/?s=Chain%20Creeper#Chain%20Creeper",
+  "imgUrl": "/1_19/img/spells/chain_creeper.png",
+  "content": "Around a targeted creature or block, conjure a ring of creeper heads that falls to the ground and explodes. Any creature killed by this blast will conjure another, smaller, ring of creeper heads. This can chain multiple times."
+  },
+
+  
+  
+
+  {
+  "title": "Fang Strike",
+  "url": "/1_19/spells/?s=Fang%20Strike#Fang%20Strike",
+  "imgUrl": "/1_19/img/spells/fang_strike.png",
+  "content": "Conjure a line of evoker fangs in front of you, in classic illager fashion."
+  },
+
+  
+  
+
+  {
+  "title": "Fang Ward",
+  "url": "/1_19/spells/?s=Fang%20Ward#Fang%20Ward",
+  "imgUrl": "/1_19/img/spells/fang_ward.png",
+  "content": "Conjure protective rings of evoker fangs around you, in classic illager fashion."
+  },
+
+  
+  
+
+  {
+  "title": "Firecracker",
+  "url": "/1_19/spells/?s=Firecracker#Firecracker",
+  "imgUrl": "/1_19/img/spells/firecracker.png",
+  "content": "Instantaneously conjure a firework where you look that explodes in a small radius around it."
+  },
+
+  
+  
+
+  {
+  "title": "Gust",
+  "url": "/1_19/spells/?s=Gust#Gust",
+  "imgUrl": "/1_19/img/spells/gust.png",
+  "content": "Conjure a strong gust of wind, knocking back creatures in a conical shape, causing damage if they impact a wall"
+  },
+
+  
+  
+
+  {
+  "title": "Invisibility",
+  "url": "/1_19/spells/?s=Invisibility#Invisibility",
+  "imgUrl": "/1_19/img/spells/invisibility.png",
+  "content": "Cast to briefly grant yourself true invisibility, which hides armor and held items, but immediately wears off upon dealing damage. Mobs also lose aggro."
+  },
+
+  
+  
+
+  {
+  "title": "Lob Creeper",
+  "url": "/1_19/spells/?s=Lob%20Creeper#Lob%20Creeper",
+  "imgUrl": "/1_19/img/spells/lob_creeper.png",
+  "content": "Lob the head of a creeper forward that explodes in a medium radius around the impact. The higher the level, the faster the projectile."
+  },
+
+  
+  
+
+  {
+  "title": "Shield",
+  "url": "/1_19/spells/?s=Shield#Shield",
+  "imgUrl": "/1_19/img/spells/shield.png",
+  "content": "Conjure a stationary shield of arcane energy where you look that will block projectiles and prevent creatures from passing."
+  },
+
+  
+  
+
+  {
+  "title": "Spectral Hammer",
+  "url": "/1_19/spells/?s=Spectral%20Hammer#Spectral%20Hammer",
+  "imgUrl": "/1_19/img/spells/spectral_hammer.png",
+  "content": "Conjure a spectral hammer out from where you look that will mine all connected stone-type blocks in a cube where it hits, leaving only ores and rubble behind."
+  },
+
+  
+  
+
+  {
+  "title": "Summon Horse",
+  "url": "/1_19/spells/?s=Summon%20Horse#Summon%20Horse",
+  "imgUrl": "/1_19/img/spells/summon_horse.png",
+  "content": "Conjure a spectral steed that will follow you around and only let you ride. The horse's speed, health, and jump height scales with spell power."
+  },
+
+  
+  
+
+  {
+  "title": "Summon Vex",
+  "url": "/1_19/spells/?s=Summon%20Vex#Summon%20Vex",
+  "imgUrl": "/1_19/img/spells/summon_vex.png",
+  "content": "Cast to conjure vexes that will follow, protect, and fight for you."
+  },
+
+  
+  
+
+  {
+  "title": "Slow",
+  "url": "/1_19/spells/?s=Slow#Slow",
+  "imgUrl": "/1_19/img/spells/slow.png",
+  "content": "In a radius around a targeted creature, apply the Slowed effect to enemies, decreasing movement speed, attack speed, mining speed, mana regeneration, and cast time for a duration."
+  },
+
+  
+  
+
+  {
+  "title": "Arrow Volley",
+  "url": "/1_19/spells/?s=Arrow%20Volley#Arrow%20Volley",
+  "imgUrl": "/1_19/img/spells/arrow_volley.png",
+  "content": "Around a targeted creature or block, summon a rolling wave of magical arrows from the sky."
+  },
+
+  
+  
+
+  {
+  "title": "Wololo",
+  "url": "/1_19/spells/?s=Wololo#Wololo",
+  "imgUrl": "/1_19/img/spells/wololo.png",
+  "content": "Wololo!"
+  },
+
+  
+  
+
+  {
+  "title": "Blaze Storm",
+  "url": "/1_19/spells/?s=Blaze%20Storm#Blaze%20Storm",
+  "imgUrl": "/1_19/img/spells/blaze_storm.png",
+  "content": "Hold to unleash a barrage of blaze fireballs, shooting rapidly but wildly in front of you and igniting any creatures or blocks hit."
+  },
+
+  
+  
+
+  {
+  "title": "Burning Dash",
+  "url": "/1_19/spells/?s=Burning%20Dash#Burning%20Dash",
+  "imgUrl": "/1_19/img/spells/burning_dash.png",
+  "content": "Quickly launch yourself forward in a haze of fire, searing creatures you pass through while in a blaze."
+  },
+
+  
+  
+
+  {
+  "title": "Fireball",
+  "url": "/1_19/spells/?s=Fireball#Fireball",
+  "imgUrl": "/1_19/img/spells/fireball.png",
+  "content": "Manifest and throw a ball of fire, exploding and dealing massive damage on impact."
+  },
+
+  
+  
+
+  {
+  "title": "Firebolt",
+  "url": "/1_19/spells/?s=Firebolt#Firebolt",
+  "imgUrl": "/1_19/img/spells/firebolt.png",
+  "content": "Shoot a small projectile of fire, igniting whatever it hits."
+  },
+
+  
+  
+
+  {
+  "title": "Fire Breath",
+  "url": "/1_19/spells/?s=Fire%20Breath#Fire%20Breath",
+  "imgUrl": "/1_19/img/spells/fire_breath.png",
+  "content": "Hold to spew a cone of fire outwards, igniting creatures and blocks in its path."
+  },
+
+  
+  
+
+  {
+  "title": "Magma Bomb",
+  "url": "/1_19/spells/?s=Magma%20Bomb#Magma%20Bomb",
+  "imgUrl": "/1_19/img/spells/magma_bomb.png",
+  "content": "Launch a bomb made from magma, exploding on impact and leaving a field of fire where it lands"
+  },
+
+  
+  
+
+  {
+  "title": "Wall Of Fire",
+  "url": "/1_19/spells/?s=Wall%20Of%20Fire#Wall%20Of%20Fire",
+  "imgUrl": "/1_19/img/spells/wall_of_fire.png",
+  "content": "Recast to place anchor points, which erupts into a wall of fire when the cast finishes, or when the maximum length is reached. This wall blocks projectiles and ignites creatures that pass through it."
+  },
+
+  
+  
+
+  {
+  "title": "Heat Surge",
+  "url": "/1_19/spells/?s=Heat%20Surge#Heat%20Surge",
+  "imgUrl": "/1_19/img/spells/heat_surge.png",
+  "content": "Emanate a surge of fiery magic, igniting and rending creatures in a radius around you. Rended creatures have reduced armor."
+  },
+
+  
+  
+
+  {
+  "title": "Flaming Strike",
+  "url": "/1_19/spells/?s=Flaming%20Strike#Flaming%20Strike",
+  "imgUrl": "/1_19/img/spells/flaming_strike.png",
+  "content": "Unleash a sweeping melee attack in the form of a wreath of flames. This spell is uninterruptible. The damage scales off of your held weapon's melee damage and enchantments."
+  },
+
+  
+  
+
+  {
+  "title": "Scorch",
+  "url": "/1_19/spells/?s=Scorch#Scorch",
+  "imgUrl": "/1_19/img/spells/scorch.png",
+  "content": "In a targeted area, erupt a scorch of fiery magic, damaging creatures in the zone and leaving a field of fire."
+  },
+
+  
+  
+
+  {
+  "title": "Flaming Barrage",
+  "url": "/1_19/spells/?s=Flaming%20Barrage#Flaming%20Barrage",
+  "imgUrl": "/1_19/img/spells/flaming_barrage.png",
+  "content": "Cast to select targets, which at the end of recasting, will each be under barrage of small fireballs."
+  },
+
+  
+  
+
+  {
+  "title": "Angel Wing",
+  "url": "/1_19/spells/?s=Angel%20Wing#Angel%20Wing",
+  "imgUrl": "/1_19/img/spells/angel_wing.png",
+  "content": "Cast to gain wings made of holy energy, acting as an elytra, for a brief period of time."
+  },
+
+  
+  
+
+  {
+  "title": "Blessing Of Life",
+  "url": "/1_19/spells/?s=Blessing%20Of%20Life#Blessing%20Of%20Life",
+  "imgUrl": "/1_19/img/spells/blessing_of_life.png",
+  "content": "Cast to target any creature, showing a glowing outline. Completing the cast will heal this creature."
+  },
+
+  
+  
+
+  {
+  "title": "Fortify",
+  "url": "/1_19/spells/?s=Fortify#Fortify",
+  "imgUrl": "/1_19/img/spells/fortify.png",
+  "content": "Upon casting, fortify every friendly creature within a radius around you, giving them temporary HP."
+  },
+
+  
+  
+
+  {
+  "title": "Greater Heal",
+  "url": "/1_19/spells/?s=Greater%20Heal#Greater%20Heal",
+  "imgUrl": "/1_19/img/spells/greater_heal.png",
+  "content": "A more powerful but much slower version of heal, this spell will completely heal yourself upon being casted."
+  },
+
+  
+  
+
+  {
+  "title": "Guiding Bolt",
+  "url": "/1_19/spells/?s=Guiding%20Bolt#Guiding%20Bolt",
+  "imgUrl": "/1_19/img/spells/guiding_bolt.png",
+  "content": "Fire a slow bolt of holy energy. Creatures hit will gain the Guided effect, homing nearby projectiles in towards them"
+  },
+
+  
+  
+
+  {
+  "title": "Healing Circle",
+  "url": "/1_19/spells/?s=Healing%20Circle#Healing%20Circle",
+  "imgUrl": "/1_19/img/spells/healing_circle.png",
+  "content": "Around a targeted creature or block, place a stationary circle of holy magic that heals allies within"
+  },
+
+  
+  
+
+  {
+  "title": "Heal",
+  "url": "/1_19/spells/?s=Heal#Heal",
+  "imgUrl": "/1_19/img/spells/heal.png",
+  "content": "Cast to infuse yourself with holy energy and immediately regain health."
+  },
+
+  
+  
+
+  {
+  "title": "Wisp",
+  "url": "/1_19/spells/?s=Wisp#Wisp",
+  "imgUrl": "/1_19/img/spells/wisp.png",
+  "content": "Conjure a projectile of holy energy that will float towards nearby targets and deal damage upon impact."
+  },
+
+  
+  
+
+  {
+  "title": "Divine Smite",
+  "url": "/1_19/spells/?s=Divine%20Smite#Divine%20Smite",
+  "imgUrl": "/1_19/img/spells/divine_smite.png",
+  "content": "With a fervor of holy energy, swing forth your weapon, doing a melee area attack. This spell is uninterruptible. The damage scales off of your held weapon's melee damage and enchantments."
+  },
+
+  
+  
+
+  {
+  "title": "Haste",
+  "url": "/1_19/spells/?s=Haste#Haste",
+  "imgUrl": "/1_19/img/spells/haste.png",
+  "content": "In a radius around a targeted creature, or yourself if no creature is targeted, apply the Hastened effect, increasing movement speed, attack speed, mining speed, mana regeneration, and cast time reduction for a duration."
+  },
+
+  
+  
+
+  {
+  "title": "Cone Of Cold",
+  "url": "/1_19/spells/?s=Cone%20Of%20Cold#Cone%20Of%20Cold",
+  "imgUrl": "/1_19/img/spells/cone_of_cold.png",
+  "content": "Hold to cast out a cone of cold energy, freezing creatures in its path."
+  },
+
+  
+  
+
+  {
+  "title": "Frost Step",
+  "url": "/1_19/spells/?s=Frost%20Step#Frost%20Step",
+  "imgUrl": "/1_19/img/spells/frost_step.png",
+  "content": "Instantaneously teleport to where you are looking, leaving behind a shadow of ice. This shadow will shatter after 3 seconds or upon taking any damage, shooting out icicles in every direction."
+  },
+
+  
+  
+
+  {
+  "title": "Ice Block",
+  "url": "/1_19/spells/?s=Ice%20Block#Ice%20Block",
+  "imgUrl": "/1_19/img/spells/ice_block.png",
+  "content": "Conjure a giant chunk of ice above a targeted creature or block. After a short delay, it will fall down and explode for area frost damage, doing additional damage to any creatures hit on the way down."
+  },
+
+  
+  
+
+  {
+  "title": "Icicle",
+  "url": "/1_19/spells/?s=Icicle#Icicle",
+  "imgUrl": "/1_19/img/spells/icicle.png",
+  "content": "Fire a piercing bolt of cold energy in the form of an icicle, freezing those it touches."
+  },
+
+  
+  
+
+  {
+  "title": "Summon Polar Bear",
+  "url": "/1_19/spells/?s=Summon%20Polar%20Bear#Summon%20Polar%20Bear",
+  "imgUrl": "/1_19/img/spells/summon_polar_bear.png",
+  "content": "Cast to summon a polar bear who will follow, protect, and fight for you, as well as providing a mount."
+  },
+
+  
+  
+
+  {
+  "title": "Ray Of Frost",
+  "url": "/1_19/spells/?s=Ray%20Of%20Frost#Ray%20Of%20Frost",
+  "imgUrl": "/1_19/img/spells/ray_of_frost.png",
+  "content": "Fire a beam of cold energy, dealing low damage but immediately applying freeze to the creature hit."
+  },
+
+  
+  
+
+  {
+  "title": "Frostwave",
+  "url": "/1_19/spells/?s=Frostwave#Frostwave",
+  "imgUrl": "/1_19/img/spells/frostwave.png",
+  "content": "Cascade a wave of frost magic in a radius around you, afflicting creatures with chilled. Chilled creatures are slowed, and have their incoming freeze time doubled."
+  },
+
+  
+  
+
+  {
+  "title": "Ascension",
+  "url": "/1_19/spells/?s=Ascension#Ascension",
+  "imgUrl": "/1_19/img/spells/ascension.png",
+  "content": "Cast to strike lightning at your feet and ascend quickly into the air, and gain reduced gravity for the next few seconds."
+  },
+
+  
+  
+
+  {
+  "title": "Chain Lightning",
+  "url": "/1_19/spells/?s=Chain%20Lightning#Chain%20Lightning",
+  "imgUrl": "/1_19/img/spells/chain_lightning.png",
+  "content": "Start a chain of lightning from a targeted creature, causing waves of zapping magic to cascade to nearby creatures"
+  },
+
+  
+  
+
+  {
+  "title": "Charge",
+  "url": "/1_19/spells/?s=Charge#Charge",
+  "imgUrl": "/1_19/img/spells/charge.png",
+  "content": "Imbue yourself with the power of lightning, increasing your speed and combat abilities."
+  },
+
+  
+  
+
+  {
+  "title": "Electrocute",
+  "url": "/1_19/spells/?s=Electrocute#Electrocute",
+  "imgUrl": "/1_19/img/spells/electrocute.png",
+  "content": "Hold to manifest a cone of electrical energy, damaging creatures in its path."
+  },
+
+  
+  
+
+  {
+  "title": "Lightning Bolt",
+  "url": "/1_19/spells/?s=Lightning%20Bolt#Lightning%20Bolt",
+  "imgUrl": "/1_19/img/spells/lightning_bolt.png",
+  "content": "Down from the heavens, summon a bolt of lightning."
+  },
+
+  
+  
+
+  {
+  "title": "Lightning Lance",
+  "url": "/1_19/spells/?s=Lightning%20Lance#Lightning%20Lance",
+  "imgUrl": "/1_19/img/spells/lightning_lance.png",
+  "content": "Hold to charge a spear made of lightning. Release to throw it like a javelin, dealing high damage to the creature it hits."
+  },
+
+  
+  
+
+  {
+  "title": "Shockwave",
+  "url": "/1_19/spells/?s=Shockwave#Shockwave",
+  "imgUrl": "/1_19/img/spells/shockwave.png",
+  "content": "Coalesce a surge of electrical power, and unleash it in a devastating shockwave, blasting exposed creatures."
+  },
+
+  
+  
+
+  {
+  "title": "Thunderstorm",
+  "url": "/1_19/spells/?s=Thunderstorm#Thunderstorm",
+  "imgUrl": "/1_19/img/spells/thunderstorm.png",
+  "content": "Cast to conjure a thunderstorm centered around yourself, which strikes nearby creatures within sight with a small bolt of lightning every 2 seconds for the spell's duration."
+  },
+
+  
+  
+
+  {
+  "title": "Ball Lightning",
+  "url": "/1_19/spells/?s=Ball%20Lightning#Ball%20Lightning",
+  "imgUrl": "/1_19/img/spells/ball_lightning.png",
+  "content": "Conjure an orb of lightning that slowly moves forward, damaging creatures it phases through and bouncing off blocks."
+  },
+
+  
+  
+
+  {
+  "title": "Acid Orb",
+  "url": "/1_19/spells/?s=Acid%20Orb#Acid%20Orb",
+  "imgUrl": "/1_19/img/spells/acid_orb.png",
+  "content": "Spit an orb of acid, splashing in a radius upon impact and rending creatures hit, melting away and reducing their armor"
+  },
+
+  
+  
+
+  {
+  "title": "Blight",
+  "url": "/1_19/spells/?s=Blight#Blight",
+  "imgUrl": "/1_19/img/spells/blight.png",
+  "content": "Target a creature to blight them, reducing their incoming healing and outgoing damage"
+  },
+
+  
+  
+
+  {
+  "title": "Poison Arrow",
+  "url": "/1_19/spells/?s=Poison%20Arrow#Poison%20Arrow",
+  "imgUrl": "/1_19/img/spells/poison_arrow.png",
+  "content": "Charge a powerful arrow, imbued with poison magic, that will release a poisonous cloud upon impact"
+  },
+
+  
+  
+
+  {
+  "title": "Poison Breath",
+  "url": "/1_19/spells/?s=Poison%20Breath#Poison%20Breath",
+  "imgUrl": "/1_19/img/spells/poison_breath.png",
+  "content": "Spew forth a cone of poison, damaging and poisoning creatures in its reach"
+  },
+
+  
+  
+
+  {
+  "title": "Poison Splash",
+  "url": "/1_19/spells/?s=Poison%20Splash#Poison%20Splash",
+  "imgUrl": "/1_19/img/spells/poison_splash.png",
+  "content": "Around a targeted creature or block, conjure a wave of poisonous magic that splashes down, damaging creatures hit and leaving behind a poisonous cloud"
+  },
+
+  
+  
+
+  {
+  "title": "Root",
+  "url": "/1_19/spells/?s=Root#Root",
+  "imgUrl": "/1_19/img/spells/root.png",
+  "content": "Around a targeted creature, sprout magical roots than entangle them and completely prevent non-magical movement"
+  },
+
+  
+  
+
+  {
+  "title": "Spider Aspect",
+  "url": "/1_19/spells/?s=Spider%20Aspect#Spider%20Aspect",
+  "imgUrl": "/1_19/img/spells/spider_aspect.png",
+  "content": "Instill yourself with poisonous magic, dealing additional melee, ranged, or spell damage creatures that are poisoned"
+  },
+
+  
+  
+
+  {
+  "title": "Firefly Swarm",
+  "url": "/1_19/spells/?s=Firefly%20Swarm#Firefly%20Swarm",
+  "imgUrl": "/1_19/img/spells/firefly_swarm.png",
+  "content": "Emanate a swarm of violent fireflies, following a targeted creature and dealing aoe damage. If the initial target dies, the last harmed creature will be targeted."
+  },
+
+  
+  
+
+  {
+  "title": "Oakskin",
+  "url": "/1_19/spells/?s=Oakskin#Oakskin",
+  "imgUrl": "/1_19/img/spells/oakskin.png",
+  "content": "The great power of oak infuses itself into your skin, granting damage reduction of any incoming damage for a duration."
+  },
+
+  
+  
+
+  {
+  "title": "Earthquake",
+  "url": "/1_19/spells/?s=Earthquake#Earthquake",
+  "imgUrl": "/1_19/img/spells/earthquake.png",
+  "content": "Conjure an earthquake around a targeted creature or location, causing tremors to ripple through the ground, damaging and slowing creatures in the area."
+  },
+
+  
+  
+
+  {
+  "title": "Stomp",
+  "url": "/1_19/spells/?s=Stomp#Stomp",
+  "imgUrl": "/1_19/img/spells/stomp.png",
+  "content": "With a magic force, stomp the ground in front of you and send a short tremor forward through the ground, damaging creatures in its path."
+  },
+
+  
+  
+
+  {
+  "title": "Gluttony",
+  "url": "/1_19/spells/?s=Gluttony#Gluttony",
+  "imgUrl": "/1_19/img/spells/gluttony.png",
+  "content": "Turn your stomach into an arcane furnace, turning eaten food into mana for a duration."
+  },
+
+  
+  
+
+  {
+  "title": "Abyssal Shroud",
+  "url": "/1_19/spells/?s=Abyssal%20Shroud#Abyssal%20Shroud",
+  "imgUrl": "/1_19/img/spells/abyssal_shroud.png",
+  "content": "Cloak yourself with the shadows of the abyss, granting the ability to evade any attack for a short duration of time."
+  },
+
+  
+  
+
+  {
+  "title": "Sculk Tentacles",
+  "url": "/1_19/spells/?s=Sculk%20Tentacles#Sculk%20Tentacles",
+  "imgUrl": "/1_19/img/spells/sculk_tentacles.png",
+  "content": "From where you look, erupt a mass of sculk energy in the form of wailing tentacles, damaging and blinding creatures caught in the chaos."
+  },
+
+  
+  
+
+  {
+  "title": "Sonic Boom",
+  "url": "/1_19/spells/?s=Sonic%20Boom#Sonic%20Boom",
+  "imgUrl": "/1_19/img/spells/sonic_boom.png",
+  "content": "Blast forth a sonic boom of immense power, passing through solid material with ease and harming the first creature in its path."
+  },
+
+  
+  
+
+  {
+  "title": "Planar Sight",
+  "url": "/1_19/spells/?s=Planar%20Sight#Planar%20Sight",
+  "imgUrl": "/1_19/img/spells/planar_sight.png",
+  "content": "Shift your vision in between planes, gaining the ability to see creatures through solid material."
+  },
+
+  
+  
+
+  {
+  "title": "Telekinesis",
+  "url": "/1_19/spells/?s=Telekinesis#Telekinesis",
+  "imgUrl": "/1_19/img/spells/telekinesis.png",
+  "content": "Reach out with a spectral force and grip a creature, forcing them towards your gaze. Creatures are susceptible to kinetic damage."
+  },
+
+  
+  
+
+  {
+  "title": "Eldritch Blast",
+  "url": "/1_19/spells/?s=Eldritch%20Blast#Eldritch%20Blast",
+  "imgUrl": "/1_19/img/spells/eldritch_blast.png",
+  "content": "Fire rays of pure, devastating energy."
+  },
+
+
+
+  {
+  "title": "Archevoker Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:archevoker_boots#irons_spellbooks:archevoker_boots",
+  "imgUrl": "/1_19/img/items/archevoker_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +8% Evocation Spell Power, +100 Max Mana"
+  },
+
+  {
+  "title": "Archevoker Coat",
+  "url": "/1_19/armor/?s=irons_spellbooks:archevoker_chestplate#irons_spellbooks:archevoker_chestplate",
+  "imgUrl": "/1_19/img/items/archevoker_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +8% Evocation Spell Power, +100 Max Mana"
+  },
+
+  {
+  "title": "Archevoker Hat",
+  "url": "/1_19/armor/?s=irons_spellbooks:archevoker_helmet#irons_spellbooks:archevoker_helmet",
+  "imgUrl": "/1_19/img/items/archevoker_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +8% Evocation Spell Power, +100 Max Mana"
+  },
+
+  {
+  "title": "Archevoker Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:archevoker_leggings#irons_spellbooks:archevoker_leggings",
+  "imgUrl": "/1_19/img/items/archevoker_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +8% Evocation Spell Power, +100 Max Mana"
+  },
+
+  {
+  "title": "Cryomancer Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:cryomancer_boots#irons_spellbooks:cryomancer_boots",
+  "imgUrl": "/1_19/img/items/cryomancer_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Ice Spell Power"
+  },
+
+  {
+  "title": "Cryomancer Coat",
+  "url": "/1_19/armor/?s=irons_spellbooks:cryomancer_chestplate#irons_spellbooks:cryomancer_chestplate",
+  "imgUrl": "/1_19/img/items/cryomancer_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Ice Spell Power"
+  },
+
+  {
+  "title": "Cryomancer Hood",
+  "url": "/1_19/armor/?s=irons_spellbooks:cryomancer_helmet#irons_spellbooks:cryomancer_helmet",
+  "imgUrl": "/1_19/img/items/cryomancer_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Ice Spell Power"
+  },
+
+  {
+  "title": "Cryomancer Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:cryomancer_leggings#irons_spellbooks:cryomancer_leggings",
+  "imgUrl": "/1_19/img/items/cryomancer_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Ice Spell Power"
+  },
+
+  {
+  "title": "Cultist Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:cultist_boots#irons_spellbooks:cultist_boots",
+  "imgUrl": "/1_19/img/items/cultist_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Blood Spell Power"
+  },
+
+  {
+  "title": "Cultist Armor",
+  "url": "/1_19/armor/?s=irons_spellbooks:cultist_chestplate#irons_spellbooks:cultist_chestplate",
+  "imgUrl": "/1_19/img/items/cultist_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Blood Spell Power"
+  },
+
+  {
+  "title": "Cultist Hood",
+  "url": "/1_19/armor/?s=irons_spellbooks:cultist_helmet#irons_spellbooks:cultist_helmet",
+  "imgUrl": "/1_19/img/items/cultist_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Blood Spell Power"
+  },
+
+  {
+  "title": "Cultist Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:cultist_leggings#irons_spellbooks:cultist_leggings",
+  "imgUrl": "/1_19/img/items/cultist_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Blood Spell Power"
+  },
+
+  {
+  "title": "Electromancer Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:electromancer_boots#irons_spellbooks:electromancer_boots",
+  "imgUrl": "/1_19/img/items/electromancer_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Lightning Spell Power"
+  },
+
+  {
+  "title": "Electromancer Robe",
+  "url": "/1_19/armor/?s=irons_spellbooks:electromancer_chestplate#irons_spellbooks:electromancer_chestplate",
+  "imgUrl": "/1_19/img/items/electromancer_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Lightning Spell Power"
+  },
+
+  {
+  "title": "Electromancer Hat",
+  "url": "/1_19/armor/?s=irons_spellbooks:electromancer_helmet#irons_spellbooks:electromancer_helmet",
+  "imgUrl": "/1_19/img/items/electromancer_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Lightning Spell Power"
+  },
+
+  {
+  "title": "Electromancer Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:electromancer_leggings#irons_spellbooks:electromancer_leggings",
+  "imgUrl": "/1_19/img/items/electromancer_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Lightning Spell Power"
+  },
+
+  {
+  "title": "Netherite Battlemage Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:netherite_mage_boots#irons_spellbooks:netherite_mage_boots",
+  "imgUrl": "/1_19/img/items/netherite_mage_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +3 Armor Toughness, +100 Max Mana"
+  },
+
+  {
+  "title": "Netherite Battlemage Robes",
+  "url": "/1_19/armor/?s=irons_spellbooks:netherite_mage_chestplate#irons_spellbooks:netherite_mage_chestplate",
+  "imgUrl": "/1_19/img/items/netherite_mage_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +3 Armor Toughness, +100 Max Mana"
+  },
+
+  {
+  "title": "Netherite Battlemage Hat",
+  "url": "/1_19/armor/?s=irons_spellbooks:netherite_mage_helmet#irons_spellbooks:netherite_mage_helmet",
+  "imgUrl": "/1_19/img/items/netherite_mage_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +3 Armor Toughness, +100 Max Mana"
+  },
+
+  {
+  "title": "Netherite Battlemage Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:netherite_mage_leggings#irons_spellbooks:netherite_mage_leggings",
+  "imgUrl": "/1_19/img/items/netherite_mage_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +3 Armor Toughness, +100 Max Mana"
+  },
+
+  {
+  "title": "Plagued Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:plagued_boots#irons_spellbooks:plagued_boots",
+  "imgUrl": "/1_19/img/items/plagued_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Nature Spell Power"
+  },
+
+  {
+  "title": "Plagued Coat",
+  "url": "/1_19/armor/?s=irons_spellbooks:plagued_chestplate#irons_spellbooks:plagued_chestplate",
+  "imgUrl": "/1_19/img/items/plagued_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Nature Spell Power"
+  },
+
+  {
+  "title": "Plagued Mask",
+  "url": "/1_19/armor/?s=irons_spellbooks:plagued_helmet#irons_spellbooks:plagued_helmet",
+  "imgUrl": "/1_19/img/items/plagued_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Nature Spell Power"
+  },
+
+  {
+  "title": "Plagued Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:plagued_leggings#irons_spellbooks:plagued_leggings",
+  "imgUrl": "/1_19/img/items/plagued_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Nature Spell Power"
+  },
+
+  {
+  "title": "Priest Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:priest_boots#irons_spellbooks:priest_boots",
+  "imgUrl": "/1_19/img/items/priest_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Holy Spell Power"
+  },
+
+  {
+  "title": "Priest Robes",
+  "url": "/1_19/armor/?s=irons_spellbooks:priest_chestplate#irons_spellbooks:priest_chestplate",
+  "imgUrl": "/1_19/img/items/priest_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Holy Spell Power"
+  },
+
+  {
+  "title": "Priest Mask",
+  "url": "/1_19/armor/?s=irons_spellbooks:priest_helmet#irons_spellbooks:priest_helmet",
+  "imgUrl": "/1_19/img/items/priest_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Holy Spell Power"
+  },
+
+  {
+  "title": "Priest Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:priest_leggings#irons_spellbooks:priest_leggings",
+  "imgUrl": "/1_19/img/items/priest_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Holy Spell Power"
+  },
+
+  {
+  "title": "Scarecrow Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:pumpkin_boots#irons_spellbooks:pumpkin_boots",
+  "imgUrl": "/1_19/img/items/pumpkin_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +50 Max Mana"
+  },
+
+  {
+  "title": "Scarecrow Coat",
+  "url": "/1_19/armor/?s=irons_spellbooks:pumpkin_chestplate#irons_spellbooks:pumpkin_chestplate",
+  "imgUrl": "/1_19/img/items/pumpkin_chestplate.png",
+  "content": "When on Body:<br> +8 Armor, +50 Max Mana"
+  },
+
+  {
+  "title": "Scarecrow Hat",
+  "url": "/1_19/armor/?s=irons_spellbooks:pumpkin_helmet#irons_spellbooks:pumpkin_helmet",
+  "imgUrl": "/1_19/img/items/pumpkin_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +50 Max Mana"
+  },
+
+  {
+  "title": "Scarecrow Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:pumpkin_leggings#irons_spellbooks:pumpkin_leggings",
+  "imgUrl": "/1_19/img/items/pumpkin_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +50 Max Mana"
+  },
+
+  {
+  "title": "Pyromancer Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:pyromancer_boots#irons_spellbooks:pyromancer_boots",
+  "imgUrl": "/1_19/img/items/pyromancer_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Fire Spell Power"
+  },
+
+  {
+  "title": "Pyromancer Robe",
+  "url": "/1_19/armor/?s=irons_spellbooks:pyromancer_chestplate#irons_spellbooks:pyromancer_chestplate",
+  "imgUrl": "/1_19/img/items/pyromancer_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Fire Spell Power"
+  },
+
+  {
+  "title": "Pyromancer Hat",
+  "url": "/1_19/armor/?s=irons_spellbooks:pyromancer_helmet#irons_spellbooks:pyromancer_helmet",
+  "imgUrl": "/1_19/img/items/pyromancer_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Fire Spell Power"
+  },
+
+  {
+  "title": "Pyromancer Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:pyromancer_leggings#irons_spellbooks:pyromancer_leggings",
+  "imgUrl": "/1_19/img/items/pyromancer_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Fire Spell Power"
+  },
+
+  {
+  "title": "Shadow-Walker Boots",
+  "url": "/1_19/armor/?s=irons_spellbooks:shadowwalker_boots#irons_spellbooks:shadowwalker_boots",
+  "imgUrl": "/1_19/img/items/shadowwalker_boots.png",
+  "content": "When on Feet:<br> +3 Armor, +100 Max Mana, +8% Ender Spell Power"
+  },
+
+  {
+  "title": "Shadow-Walker Armor",
+  "url": "/1_19/armor/?s=irons_spellbooks:shadowwalker_chestplate#irons_spellbooks:shadowwalker_chestplate",
+  "imgUrl": "/1_19/img/items/shadowwalker_chestplate.png",
+  "content": "Can be Imbued (0/1), When on Body:<br> +8 Armor, +100 Max Mana, +8% Ender Spell Power"
+  },
+
+  {
+  "title": "Shadow-Walker Mask",
+  "url": "/1_19/armor/?s=irons_spellbooks:shadowwalker_helmet#irons_spellbooks:shadowwalker_helmet",
+  "imgUrl": "/1_19/img/items/shadowwalker_helmet.png",
+  "content": "When on Head:<br> +3 Armor, +100 Max Mana, +8% Ender Spell Power"
+  },
+
+  {
+  "title": "Shadow-Walker Leggings",
+  "url": "/1_19/armor/?s=irons_spellbooks:shadowwalker_leggings#irons_spellbooks:shadowwalker_leggings",
+  "imgUrl": "/1_19/img/items/shadowwalker_leggings.png",
+  "content": "When on Legs:<br> +6 Armor, +100 Max Mana, +8% Ender Spell Power"
+  },
+
+  {
+  "title": "Tarnished Crown",
+  "url": "/1_19/armor/?s=irons_spellbooks:tarnished_helmet#irons_spellbooks:tarnished_helmet",
+  "imgUrl": "/1_19/img/items/tarnished_helmet.png",
+  "content": "Can be Imbued (0/1), When on Head:<br> -15% Attack Damage, +150 Max Mana, +25% Mana Regeneration"
+  },
+
+  {
+  "title": "Wandering Magician Shoes",
+  "url": "/1_19/armor/?s=irons_spellbooks:wandering_magician_boots#irons_spellbooks:wandering_magician_boots",
+  "imgUrl": "/1_19/img/items/wandering_magician_boots.png",
+  "content": "When on Feet:<br> +2 Armor, +25 Max Mana"
+  },
+
+  {
+  "title": "Wandering Magician Robe",
+  "url": "/1_19/armor/?s=irons_spellbooks:wandering_magician_chestplate#irons_spellbooks:wandering_magician_chestplate",
+  "imgUrl": "/1_19/img/items/wandering_magician_chestplate.png",
+  "content": "When on Body:<br> +6 Armor, +25 Max Mana"
+  },
+
+  {
+  "title": "Wandering Magician Hood",
+  "url": "/1_19/armor/?s=irons_spellbooks:wandering_magician_helmet#irons_spellbooks:wandering_magician_helmet",
+  "imgUrl": "/1_19/img/items/wandering_magician_helmet.png",
+  "content": "When on Head:<br> +2 Armor, +25 Max Mana"
+  },
+
+  {
+  "title": "Wandering Magician Pants",
+  "url": "/1_19/armor/?s=irons_spellbooks:wandering_magician_leggings#irons_spellbooks:wandering_magician_leggings",
+  "imgUrl": "/1_19/img/items/wandering_magician_leggings.png",
+  "content": "When on Legs:<br> +5 Armor, +25 Max Mana"
+  }
+
+
+]
+

@@ -1,0 +1,38 @@
+irons_spellbooks:diamond_spell_book:
+  description: ""
+
+irons_spellbooks:gold_spell_book:
+  description: ""
+
+irons_spellbooks:netherite_spell_book:
+  description: ""
+
+irons_spellbooks:iron_spell_book:
+  description: ""
+
+irons_spellbooks:dragonskin_spell_book:
+  description: ""
+
+irons_spellbooks:copper_spell_book:
+  description: ""
+
+irons_spellbooks:evoker_spell_book:
+  description: "Rớt ngẫu nhiên với tỉ lệ hiếm từ Evoker và Archevoker."
+
+irons_spellbooks:rotten_spell_book:
+  description: "Đồ hiếm rớt ngẫu nhiên trong thế giới."
+
+irons_spellbooks:blaze_spell_book:
+  description: "Rớt ngẫu nhiên với tỉ lệ hiếm từ Blaze."
+
+irons_spellbooks:villager_spell_book:
+  description: "Tu sĩ sẽ trao đổi vật phẩm này lấy một cuốn sách cổ ngữ tìm thấy trong Pháo đài Evoker. Cuốn sách cổ ngữ này phải được dịch bởi một thương nhân lang thang bị bắt giữ trong Pháo đài Evoker."
+
+irons_spellbooks:blood_staff:
+  description: "Rớt phổ biến từ Dead King."
+
+irons_spellbooks:magehunter:
+  description: "Vũ khí của Vindicator trên tầng hai Pháo đài Archevoker. Có tỉ lệ rớt tự nhiên."
+
+irons_spellbooks:keeper_flamberge:
+  description: "Vũ khí của Hiệp sĩ Cổ đại. Có tỉ lệ rớt tự nhiên."

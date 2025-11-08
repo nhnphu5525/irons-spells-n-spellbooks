@@ -1,0 +1,60 @@
+<div class="spell-container">
+  <div class="spell-header">
+    <h3 id="{{spell.name}}" class="spell-title">{{spell.name}}</h3>
+  </div>
+  <div class="spell-body">
+    <div style="display: flex">
+      <div style="min-width: 130px; max-width: 130px; float: left">
+        <div id="image_wrapper" style="position: relative">
+          <img src="/img/spell_frame.png" style="width: 120px; image-rendering: pixelated; position: relative; top:0; left: 0;">
+          <img src="{{spell.icon}}" style="width: 80px; image-rendering: pixelated; position: absolute; top: 36px; left: 20px;">
+        </div>
+      </div>
+      <div style="min-width: 420px; max-width:420px; float: left">
+        <table style="width: 100%;">
+          <tr>
+            <td class="spell-cell-label">School:</td>
+            <td class="spell-cell-data">{{spell_group.name}}</td>
+            <td class="spell-cell-spacer"></td>
+            <td class="spell-cell-label">Level:</td>
+            <td class="spell-cell-data">{{spell.level}}</td>
+          </tr>
+          <tr>
+            <td class="spell-cell-label">Cooldown:</td>
+            <td class="spell-cell-data">{{spell.cooldown | divided_by:20}}s</td>
+            <td class="spell-cell-spacer"></td>
+            <td class="spell-cell-label">Mana:</td>
+            <td class="spell-cell-data">{{spell.mana}}</td>
+          </tr>
+          <tr>
+            <td class="spell-cell-label">Cast Type:</td>
+            <td class="spell-cell-data">{{spell.cast_type}}</td>
+            <td class="spell-cell-spacer"></td>
+            <td class="spell-cell-label">Rarity:</td>
+            <td class="spell-cell-data">{{spell.rarity}}</td>
+          </tr>
+        </table>
+      </div>
+      {% if spell.u1 != "" %}
+      <div style="display: flex; float: right;">
+        <div class="spell-unique_info">
+          {{spell.u1}}<br>
+          {{spell.u2}}<br>
+          {{spell.u3}}<br>
+          {{spell.u4}}<br>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+    <div style="margin-top: 7px; margin-left: 5px; margin-right: 10px">
+      {% if recipe.tooltip != "" and desc != "" and recipe.tooltip  != desc %}
+      <hr style="border-color: rgba(255,255,255,.2);">
+      {% endif %}
+      {% if site.data.spell_descriptions[spell.name].description != null and site.data.spell_descriptions[spell.name].description != "" %}
+        {{site.data.spell_descriptions[spell.name].description}}
+      {% else %}
+        {{spell.description}}
+      {% endif %}
+    </div>
+  </div>
+</div>
